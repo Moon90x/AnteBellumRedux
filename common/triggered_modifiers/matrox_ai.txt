@@ -1,0 +1,13 @@
+matrox_ai = {
+    potential = {
+		ai = yes
+	}
+    
+			
+	trigger = {
+		ai = yes
+		NOT = {tag = PAP}
+	}
+	defensiveness = -0.33
+	diplomatic_upkeep = -2
+}

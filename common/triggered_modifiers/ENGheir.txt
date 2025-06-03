@@ -1,0 +1,14 @@
+eng_heir = {
+	potential = {
+	ai = no
+	tag = ENG
+		}
+	
+
+	trigger = {
+		NOT  = { is_year = 1449}
+		tag = ENG
+	
+	}
+	heir_chance = -2
+}
