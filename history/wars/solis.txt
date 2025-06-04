@@ -1,0 +1,164 @@
+name = "Solis"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = TUR
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = TUR
+    rem_defender = MAM
+}
+
+name = "Solis1"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = DUL
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = DUL
+    rem_defender = MAM
+}
+
+name = "Solis3"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = RAM
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = RAM
+    rem_defender = MAM
+}
+
+name = "Solis4"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = KAR
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = KAR
+    rem_defender = MAM
+}
+
+name = "Solis4"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = AKK
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = AKK
+    rem_defender = MAM
+}
+
+name = "Solis5"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = QAR
+    add_defender = MAM
+}
+1444.1.1 = {
+    rem_attacker = QAR
+    rem_defender = MAM
+}
+
+name = "Solis5"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = FRA
+    add_defender = CAS
+}
+1444.1.1 = {
+    rem_attacker = FRA
+    rem_defender = CAS
+}
+
+name = "Solis5"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = TUN
+    add_defender = SIC
+}
+1444.1.1 = {
+    rem_attacker = TUN
+    rem_defender = SIC
+}
+
+name = "Solis6"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = TUN
+    add_defender = SAR
+}
+1444.1.1 = {
+    rem_attacker = TUN
+    rem_defender = SAR
+}
+
+name = "Solis7"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = CAS
+    add_defender = SIC
+}
+1444.1.1 = {
+    rem_attacker = CAS
+    rem_defender = SIC
+}
+
+name = "Solis8"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+
+1444.1.1 = {
+    add_attacker = CAS
+    add_defender = SAR
+}
+1444.1.1 = {
+    rem_attacker = CAS
+    rem_defender = SAR
+}
