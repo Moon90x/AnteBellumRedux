@@ -9,7 +9,6 @@ historical_friend = HUN
 historical_rival = TUR
 historical_rival = FRA
 national_focus = ADM
-set_estate_privilege = estate_nobles_habsburg_disunity
 
 add_accepted_culture = slovene
 
