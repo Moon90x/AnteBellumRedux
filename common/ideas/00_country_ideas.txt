@@ -2490,7 +2490,7 @@ JAP_ideas = {
 MAM2_ideas = { #Mission reward to double mam_monopoly_ports // see mam_establish_merchant_escorts
 	start = {
 		trade_steering = 0.25
-		cavalry_power = 0.10
+		discipline = 0.05
 	}
 	
 	bonus = {
@@ -2517,7 +2517,7 @@ MAM2_ideas = { #Mission reward to double mam_monopoly_ports // see mam_establish
 		manpower_recovery_speed = 0.15
 	}
 	mam_army_reform = {
-		discipline = 0.05
+		cavalry_power = 0.10
 	}
 	reform_fellah_system = {
 		production_efficiency = 0.1
@@ -2531,7 +2531,7 @@ MAM2_ideas = { #Mission reward to double mam_monopoly_ports // see mam_establish
 MAM_ideas = {
 	start = {
 		trade_steering = 0.25
-		cavalry_power = 0.10
+		discipline = 0.05
 	}
 	
 	bonus = {
@@ -2558,7 +2558,7 @@ MAM_ideas = {
 		manpower_recovery_speed = 0.15
 	}
 	mam_army_reform = {
-		discipline = 0.05
+		cavalry_power = 0.10
 	}
 	reform_fellah_system = {
 		production_efficiency = 0.1
@@ -17186,7 +17186,7 @@ SIA_ideas = {
     }
     sia_advanced_elephant_warfare = {
 		cavalry_power = 0.15
-		cavalry_fire = 1
+		cavalry_fire = 0.5
     }
     sia_experienced_ambassadors = {
         diplomatic_reputation = 2
