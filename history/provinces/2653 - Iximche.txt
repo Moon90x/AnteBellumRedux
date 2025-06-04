@@ -1,12 +1,12 @@
-# No previous file for Iximché
+# No previous file for Iximchï¿½
 
 culture = highland_mayan
-owner = KAQ
-controller = KAQ
-add_core = KAQ
+#owner = KAQ
+#controller = KAQ
+#add_core = KAQ
 is_city = yes
 religion = mesoamerican_religion
-capital = "Iximché"
+capital = "Iximchï¿½"
 trade_goods = gems
 hre = no
 base_tax = 3 

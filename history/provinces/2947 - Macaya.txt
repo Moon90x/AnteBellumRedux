@@ -1,8 +1,8 @@
 # - Macaya
 
-owner = CLA
-controller = CLA
-add_core = CLA
+#owner = CLA
+#controller = CLA
+#add_core = CLA
 is_city = yes
 
 
