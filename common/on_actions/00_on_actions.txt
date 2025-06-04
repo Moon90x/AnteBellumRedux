@@ -6183,7 +6183,7 @@ on_new_age = {
 			current_age = age_of_reformation
 		}
 		add_country_modifier = {
-			name = zenith_of_the_ottomans
+			name = rise_of_the_ottomans
 			duration = -1
 			desc = until_end_of_age_desc
 		}
@@ -6194,7 +6194,7 @@ on_new_age = {
 			current_age = age_of_absolutism
 		}
 		add_country_modifier = {
-			name = twilight_of_the_ottomans
+			name = rise_of_the_ottomans
 			duration = -1
 			desc = until_end_of_age_desc
 		}
@@ -6205,7 +6205,7 @@ on_new_age = {
 			current_age = age_of_revolutions
 		}
 		add_country_modifier = {
-			name = decline_of_the_ottomans
+			name = rise_of_the_ottomans
 			duration = -1
 			desc = until_end_of_age_desc
 		}
