@@ -1497,7 +1497,7 @@ subject_nation = {
 	global_tax_income = -6
 	land_forcelimit	= -3
 	naval_forcelimit = -6
-	defensiveness = 0.33
+	defensiveness = 0.5
 }
 
 vassal_nation = {

@@ -5,6 +5,6 @@ home_node = {
 	trigger = {
 	
 	}
-	reduced_trade_penalty_on_non_main_tradenode = 0.5
-	assault_fort_ability = -0.5
+	reduced_trade_penalty_on_non_main_tradenode = 1
+	assault_fort_ability = -0.33
 }
