@@ -7,7 +7,7 @@ minor = {
             NOT = { has_reform = steppe_horde }
 		}
 	}	
-			NOT = {total_own_and_non_tributary_subject_development = 200 }
+			NOT = {total_own_and_non_tributary_subject_development = 300 }
                   NOT = { has_reform = steppe_horde }
 			ROOT = {
 				ai = no
@@ -18,8 +18,21 @@ minor = {
 
 	trigger = {
 		NOT  = { is_year = 1500}
+		NOT = {tag = ENG}
+		NOT = {tag = FRA}
+		NOT = {tag = CAS}
+		NOT = {tag = HAB}
+		NOT = {tag = POL}
+		NOT = {tag = TUR}
+		NOT = {tag = MAM}
+		NOT = {tag = TIM}
+		NOT = {tag = MOS}
+		NOT = {tag = HUN}
+		NOT = {tag = MOR}
 		NOT = {tag = BAH}
-		NOT = {total_own_and_non_tributary_subject_development = 200 }
+		NOT = {tag = VIJ}
+										
+		NOT = {total_own_and_non_tributary_subject_development = 300 }
             NOT = { has_reform = steppe_horde }	
     #  	OR = {
 	#		AND = {
@@ -33,9 +46,9 @@ minor = {
 	advisor_pool = 1
 	interest = -0.25
 	global_regiment_cost = -0.1
-	#global_autonomy = -0.05
+	global_autonomy = -0.05
 	monthly_reform_progress_modifier = 0.05
 	ae_impact = -0.15
 	global_tax_income = 36
-	siege_ability = 0.1
+	siege_ability = 0.2
 }
