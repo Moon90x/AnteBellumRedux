@@ -1,0 +1,47 @@
+Peace_of_Italy = {
+	potential = {
+		NOT = {
+			is_year = 1500
+		}
+		OR = {
+			tag = MLO
+			tag = NAP
+		}
+		MLO = {
+			ai = no
+		}
+		NAP = {
+			ai = no
+		}
+				OR = {
+			great_power_rank = 5
+			is_great_power = no
+		} 
+	}
+	trigger = {
+	NOT = {
+			AND = {
+			is_in_war = {
+				attackers = NAP
+			}
+			is_in_war = {
+				defenders = MLO
+			}
+		}
+		AND = {
+		is_in_war = {
+			attackers = MLO
+			}
+		is_in_war = {
+			defenders = NAP
+		}
+	}
+	}
+
+	}
+	all_power_cost = -0.025
+	build_cost = -0.05
+	global_tax_modifier = 0.05
+	global_autonomy = -0.05
+	monthly_reform_progress_modifier = 0.25
+}
