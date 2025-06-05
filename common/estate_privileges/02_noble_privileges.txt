@@ -2961,8 +2961,6 @@ estate_nobles_factionalist_nobility = {
 		
 	}
 	penalties = {
-		legitimacy = -0.5
-		global_autonomy = 0.05
 		
 	}
 	conditional_modifier = {
