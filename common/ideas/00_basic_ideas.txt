@@ -928,6 +928,10 @@ economic_ideas = {
 
 exploration_ideas = {
 	category = DIP
+	
+		trigger = {
+		always = no
+	}
 	bonus = {
 		cb_on_primitives = yes
 	}
@@ -1380,6 +1384,10 @@ quantity_ideas = {
 
 expansion_ideas = {
 	category = ADM
+	
+		trigger = {
+		always = no
+	}
 	bonus = {
  		min_autonomy_in_territories = -0.1
 	}
