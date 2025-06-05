@@ -59,6 +59,8 @@ NDefines.NCountry.PS_MOVE_CAPITAL_DISTANCE = 0
 NDefines.NCountry.PS_MOVE_CAPITAL_DISTANCE_CAP = 0
 NDefines.NCountry.PS_REPLACE_RIVAL = 0
 NDefines.NCountry.YEARS_OF_NATIONALISM = 20
+NDefines.NCountry.PS_SET_PRIMARY_CULTURE = 100
+NDefines.NCountry.PS_ADD_ACCEPTED_CULTURE = 100
 NDefines.NCountry.PS_HARSH_TREATMENT_COST = 50
 NDefines.NCountry.STRENGTHEN_GOVERNMENT_LEGITIMACY = 20
 NDefines.NCountry.PROVOKE_REVOLT_MIN_PROGRESS = 30.0
@@ -99,6 +101,8 @@ NDefines.NMilitary.BACK_LINE_MORALE_DAMAGE_TAKEN_MODIFIER = 0.0	-- Multiplier fo
 NDefines.NMilitary.BACK_LINE_STRENGTH_DAMAGE_TAKEN_MODIFIER = 0.0
 NDefines.NMilitary.BACK_LINE_REINFORCE_SPEED = 40				
 NDefines.NMilitary.TRANSPORT_TIME = 90	
+NDefines.NMilitary.CAWA_STARTING_STRENGTH = 0.1
+NDefines.NMilitary.CREATE_CAWA_MIL_COST = 3
 NDefines.NAI.PEACE_TIME_MONTHS = 12
 NDefines.NAI.PEACE_FORCE_BALANCE_FACTOR = 0
 NDefines.NAI.PEACE_WARGOAL_FACTOR = 0.5 -- AI unwillingness to peace based on holding the wargoal
@@ -122,6 +126,7 @@ NDefines.NReligion.CHANGE_SECONDARY_PRESTIGE_HIT = 0
 NDefines.NReligion.PIETY_MANPOWER = 0.5
 NDefines.NGovernment.SELECT_HEIR_FROM_HAREM_AT_MONARCH_AGE = 20
 NDefines.NGovernment.LEADER_AS_MONARCH_TRADITION = 50
+
 
 NDefines.NGame.DAYS_BEHIND_PAUSE = 90					-- In multiplayer, if the slowest player is lagging behind this amount of days, the game will pause
 NDefines.NGame.DAYS_BEHIND_LOWER_SPEED = 90			-- In multiplayer, if the slowest player is lagging behind this amount of days, the game will slow down
