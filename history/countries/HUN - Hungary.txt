@@ -1,0 +1,39 @@
+government = monarchy
+add_government_reform = feudalism_reform
+primary_culture = hungarian
+add_accepted_culture = slovak
+add_accepted_culture = transylvanian
+religion = catholic
+technology_group = eastern
+capital = 153 # Buda
+historical_friend = HAB
+
+change_estate_land_share = {
+	estate = estate_church
+	share = -5
+}
+1437.1.1 = { leader = {	name = "János Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+
+1444.11.10 = {
+	monarch = {
+		name = "János "
+		birth_date = 1420.7.7			
+		dynasty = "Hunyadi"
+		adm = 4
+		dip = 5
+		mil = 5
+	}
+}
+1444.11.10 = {
+	heir = {
+		name = "Viktor"
+		dynasty = "Hunyadi"
+		birth_date = 1429.2.22
+		death_date = 1457.11.24
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 5
+	}
+}
+#1500.1.1 = { decision = court_of_wards_and_liveries }
