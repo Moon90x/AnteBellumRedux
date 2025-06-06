@@ -26,6 +26,18 @@ capital = 510 #Sirhind
 	add_ruler_personality = industrious_personality
 }
 
+1439.1.1 = {
+	leader = {
+		name = "Bahlûl As"
+		type = general
+		fire = 4
+		shock = 5
+		manuever = 4
+		siege = 2
+		death_date = 1453.9.9
+	}
+}
+
 #Surs
 1553.1.1 = {
 	monarch = {

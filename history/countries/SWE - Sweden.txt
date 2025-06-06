@@ -18,6 +18,19 @@ change_estate_land_share = {
 	share = 10
 }
 
+1439.1.1 = {
+	leader = {
+		name = "Johan Karlsson "
+		type = general
+		fire = 2
+		shock = 4
+		manuever = 3
+		siege = 1
+		death_date = 1453.9.9
+		personality = inspirational_leader_general_personality
+	}
+}
+
 1444.11.11 = {
 	monarch = {
 		country_of_origin = SWE   
