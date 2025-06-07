@@ -3,12 +3,13 @@ add_government_reform = mamluk_government
 primary_culture = al_misr_arabic
 add_accepted_culture = al_suryah_arabic
 religion = sunni
-technology_group = ottoman
+technology_group = muslim
 historical_rival = TUR
 historical_rival = TIM
 historical_rival = CAN
 historical_rival = DUL
 historical_rival = RAM
+add_manpower = -5
 
 capital = 361 # Cairo
 add_army_professionalism = 0.1
@@ -32,7 +33,6 @@ change_estate_land_share = {
 		dip = 2
 		mil = 3
 	}
-	add_piety = 0.5
 }
 
 1412.1.1 = {
