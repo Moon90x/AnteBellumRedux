@@ -271,44 +271,6 @@ charter_university = {
 		factor = 1
 	}	
 }
-
-development_of_infrastructure = {
-
-	category = 3
-
-	allow = {
-	}
-	
-	effect = {
-		issue_effect_scaling_with_estate_influence = {
-			estate = estate_burghers
-			effect1 = "add_dip_power = 10"
-			effect2 = "add_dip_power = 25"
-			effect3 = "add_dip_power = 50"
-			effect4 = "add_dip_power = 75"
-			effect5 = "add_dip_power = 100"
-			fallback_effect = "add_dip_power = 50"
-		}
-	}
-	
-	modifier = {
-		development_cost = -0.1
-	}
-	
-	chance = {
-		factor = 5
-		modifier = {
-			factor = 5
-			has_idea_group = infrastructure_ideas
-
-		}
-	}
-
-	ai_will_do = {
-		factor = 1	
-	}	
-}
-
 election_reform = {
 
 	category = 3
