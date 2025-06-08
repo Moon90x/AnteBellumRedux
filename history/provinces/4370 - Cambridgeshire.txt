@@ -13,6 +13,7 @@ base_manpower = 2
 capital = "Cambridge"
 is_city = yes
 add_core = ENG
+fort_15th = yes
 seat_in_parliament = yes
 discovered_by = western
 discovered_by = muslim

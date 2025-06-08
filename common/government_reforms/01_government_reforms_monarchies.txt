@@ -1704,6 +1704,9 @@ burgundian_state_reform = {
 		rival_border_fort_maintenance = -1
 		diplomatic_upkeep = 2
 		years_to_integrate_personal_union = -5
+		vassal_forcelimit_bonus = 0.25
+		reduced_liberty_desire = 25
+		
 	}
 	ai = {
 		factor = 1
@@ -2309,7 +2312,7 @@ prussian_monarchy = {
 		max_absolutism = 10
 		monarch_military_power = 3
 		nobles_loyalty_modifier = 0.1
-		governing_capacity_modifier = -0.5
+		governing_capacity_modifier = -0.33
 	}
 
 	conditional = {
@@ -2407,7 +2410,7 @@ prussian_monarchy_base = {
 		max_absolutism = 10
 		monarch_military_power = 3
 		nobles_loyalty_modifier = 0.1
-		governing_capacity_modifier = -0.5
+		governing_capacity_modifier = -0.33
 	}
 
 	conditional = {
