@@ -15448,11 +15448,11 @@ SYN_ideas = {
 
 MOR_ideas = {
 	start = {
-		naval_attrition = -0.25
-		naval_forcelimit_modifier = 0.25
+		cavalry_power = 0.10
+		galley_power = 0.2
 	}
 	bonus = {
-		hostile_attrition = 1
+		discipline = 0.05
 	}
 	trigger = {
 		tag = MOR
@@ -15470,14 +15470,14 @@ MOR_ideas = {
 		caravan_power = 0.2
 	}
 	mor_fleet = {
-		galley_power = 0.2
+		naval_forcelimit_modifier = 0.25
 	}
 	mor_pirate_republics = {
 		privateer_efficiency = 0.15
 	}
 	mor_slave_soldiers = {
 		land_maintenance_modifier = -0.05
-		cavalry_power = 0.1
+		land_morale = 0.05
 	}
 	mor_curb_power_of_the_tribes = {
 		global_autonomy = -0.05
