@@ -28,7 +28,6 @@ mean_time_to_happen = {
 		inherit = SOS
 		inherit = MRK
 		inherit = TFL
-		inherit = TLC
 	}
 
 
