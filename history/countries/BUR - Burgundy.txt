@@ -1,6 +1,6 @@
 government = monarchy
 add_government_reform = burgundian_state_reform
-government_rank = 1
+government_rank = 2
 primary_culture = burgundian
 add_accepted_culture = wallonian
 religion = catholic
@@ -8,62 +8,21 @@ technology_group = western
 capital = 192	# Dijon
 add_army_professionalism = 0.1
 
-1363.1.1 = {
-	monarch = {
-		name = "Philippe II"
-		dynasty = "de Bourgogne"
-		birth_date = 1342.1.17
-		adm = 2
-		dip = 3
-		mil = 1
+
+1439.1.1 = {
+	leader = {
+		name = "Jean Bur"
+		type = general
+
+		fire = 4
+		shock = 4
+		manuever = 1
+		siege = 3
+		death_date = 1463.7.5
 	}
 }
 
-1371.5.28 = {
-	heir = {
-		name = "Jean"
-		monarch_name = "Jean II"
-		dynasty = "de Bourgogne"
-		birth_date = 1371.5.28
-		death_date = 1419.9.10
-		claim = 95
-		dip = 2
-		adm = 2
-		mil = 1
-	}
-}
-
-
-1404.1.1 = {
-	monarch = {
-		name = "Jean II"
-		dynasty = "de Bourgogne"
-		birth_date = 1371.5.28
-		adm = 2
-		dip = 2
-		mil = 1
-	}
-}
-
-
-1404.1.1 = {
-	heir = {
-		name = "Philippe"
-		monarch_name = "Philippe III"
-		dynasty = "de Bourgogne"
-		birth_date = 1396.7.31
-		death_date = 1467.6.15
-		claim = 95
-		dip = 5
-		adm = 5
-		mil = 5
-	}
-}
-
-
-1408.1.1 = { leader = {	name = "Jean de Pressy"   	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1437.1.1 } }
-
-1419.9.11 = {
+1444.10.11 = {
 	monarch = {
 		name = "Philippe III"
 		dynasty = "de Bourgogne"
@@ -71,7 +30,6 @@ add_army_professionalism = 0.1
 		adm = 5
 		dip = 5
 		mil = 5
-		leader = { name = "Philippe III"   	type = general	fire = 3	shock = 3	manuever = 3	siege = 1 }
 	}
 	clear_scripted_personalities = yes
 	add_ruler_personality = calm_personality
@@ -93,23 +51,6 @@ add_army_professionalism = 0.1
 		mil = 1
 	}
 }
-
-1433.11.10 = {
-	heir = {
-		name = "Charles"
-		monarch_name = "Charles I"
-		dynasty = "de Bourgogne"
-		birth_date = 1433.11.10
-		death_date = 1477.1.5
-		claim = 95
-		adm = 2
-		dip = 0
-		mil = 4
-		block_disinherit = yes
-	}
-	set_heir_flag = is_charles_of_burg_flag
-}
-
 
 
 1467.6.16 = {
