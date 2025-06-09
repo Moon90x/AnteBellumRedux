@@ -49,24 +49,13 @@ change_estate_land_share = {
 	monarch = {
 		name = "Abdalhaqq II"
 		dynasty = "Marinid"
-		adm = 4
-		dip = 4
-		mil = 5
+		adm = 3
+		dip = 3
+		mil = 4
 	}
 	capital = 343 # Fez
 }
-1444.1.1 = {
-	heir = {
-		name = "Abdalhaqq"
-		monarch_name = "Abdalhaqq II"
-		dynasty = "Marinid"
-		birth_date = 1440.1.1
-		claim = 95
-		adm = 4
-		dip = 4
-		mil = 5
-	}
-}
+
 1465.1.1 = {
 	monarch = {
 		name = "Mohammed ibn Ali Amrani-Joutey"
