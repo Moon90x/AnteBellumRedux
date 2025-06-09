@@ -237,3 +237,11 @@ war_goal = {
     rem_attacker = ENG
     rem_defender = BUR
 }
+1444.11.11 = {
+    add_attacker = MOR
+    add_defender = GRA
+}
+1444.11.11 = {
+    rem_attacker = MOR
+    rem_defender = GRA
+}

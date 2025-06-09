@@ -3,6 +3,7 @@ add_government_reform = barbary_sultanate_reform
 primary_culture = moroccan
 religion = sunni
 technology_group = muslim
+historical_rival = GRA
 capital = 344 # Marrakech
 add_accepted_culture = berber
 
