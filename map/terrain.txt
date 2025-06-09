@@ -315,7 +315,7 @@ categories =  {
 		supply_limit = 4
 		
 		terrain_override = {
-			210	226 # Spain
+			210 # Spain
 			139 1831 143 138 4175  #Balkans
 			158 1952 #Hungary
 			4236 #Slovakia
@@ -626,7 +626,7 @@ categories =  {
 		allowed_num_of_buildings = 1
 
 		terrain_override = {
-			1749 224
+			1749 224 226
 			221 1750 220 214 
 			1748 2754
 			225

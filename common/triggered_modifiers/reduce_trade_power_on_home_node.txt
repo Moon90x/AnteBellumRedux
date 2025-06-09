@@ -8,4 +8,5 @@ home_node = {
 	reduced_trade_penalty_on_non_main_tradenode = 1
 	assault_fort_ability = -0.33
 	merc_maintenance_modifier = 0.25
+	can_claim_states = yes
 }
