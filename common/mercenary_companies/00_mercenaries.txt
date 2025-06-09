@@ -14,6 +14,56 @@
 # Infantry
 ###########
 
+
+merc_black_army = {
+	regiments_per_development = 0.04
+	mercenary_desc_key = FREE_OF_ARMY_PROFESSIONALISM_COST
+	cavalry_weight = 0.5
+    artillery_weight = 0
+	cavalry_cap = 10
+	home_province = 153
+	sprites = { dlc102_hun_sprite_pack easterngfx_sprite_pack }
+    trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		OR = {
+			custom_trigger_tooltip = {
+				tooltip = MERCENARY_SPECIAL_REWARD
+				has_country_flag = hab_black_army_unlocked
+			}
+			has_country_modifier = hun_black_army
+			has_reform = black_army_reform
+			has_reform = expanded_black_army_reform
+		}
+	}
+	cost_modifier = 0.75
+	modifier = {
+		discipline = 0.05
+	}
+}
+
+
+# Black Army Reserves (Hungary)
+merc_black_army_2 = {
+	regiments_per_development = 0.04
+	mercenary_desc_key = FREE_OF_ARMY_PROFESSIONALISM_COST
+	cavalry_weight = 0.5
+	cavalry_cap = 10
+	home_province = 153
+	sprites = { dlc102_hun_sprite_pack easterngfx_sprite_pack }
+    trigger = {
+		is_allowed_to_recruit_mercenaries = yes
+		OR = {
+			has_reform = black_army_reform
+			has_reform = expanded_black_army_reform
+		}
+	}
+	cost_modifier = 0.75
+	modifier = {
+		discipline = 0.05
+	}
+}
+
+
 #250
 
 h_merc_d_250_large_1 = {
