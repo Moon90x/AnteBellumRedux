@@ -104,6 +104,7 @@ NDefines.NMilitary.TRANSPORT_TIME = 30
 NDefines.NMilitary.TRANSPORT_COST = 1
 NDefines.NMilitary.CAWA_STARTING_STRENGTH = 0.1
 NDefines.NMilitary.CREATE_CAWA_MIL_COST = 3
+NDefines.NMilitary.MERCENARY_REINFORCE_COST_MULTIPLIER = 0.5
 NDefines.NAI.PEACE_TIME_MONTHS = 12
 NDefines.NAI.PEACE_FORCE_BALANCE_FACTOR = 0
 NDefines.NAI.PEACE_WARGOAL_FACTOR = 0.5 -- AI unwillingness to peace based on holding the wargoal
