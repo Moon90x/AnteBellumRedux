@@ -1368,6 +1368,22 @@ eng_globe_theatre = {
 	local_tax_modifier = 0.2
 }
 
+eng_kent = {
+	potential = {
+	}
+	trigger = {
+		owner = {
+            owns_core_province = 235
+	OR = {
+		tag = ENG
+		tag = GBR
+		tag = IRE
+	}
+ 		}
+	}
+		local_defender_dice_roll_bonus = 1 
+}
+
 BYZ_heart_of_the_empire = {
 	potential = {
 		always = yes

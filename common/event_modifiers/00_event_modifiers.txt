@@ -14141,7 +14141,9 @@ matrox_golden_era = {
     all_power_cost = -0.1
     global_trade_goods_size_modifier = 0.1
 }
-
+player_overlord_modifier = {
+	defensiveness = 0.5
+}
 PR_commandant_cooldown = {
 }
 

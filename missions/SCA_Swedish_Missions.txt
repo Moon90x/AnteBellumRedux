@@ -411,9 +411,6 @@ swe_scandinavian_colonialism_mission_slot = {
 			}
 		}
 		effect = {
-			unlock_estate_privilege = {
-				estate_privilege = estate_burghers_forest_expansion
-			}
 			laponia_area = {
 				add_local_autonomy = -100
 				add_base_manpower = 2
@@ -467,22 +464,9 @@ swe_scandinavian_colonialism_mission_slot = {
 			}
 		}
 		effect = {
-			custom_tooltip = swe_forest_expansion_ct
-			hidden_effect = {
-				every_owned_province = {
-					limit = {
-						region = scandinavia_region
-						has_climate = arctic
-					}
-					add_province_modifier = {
-						name = swe_arctic_expansion
-						duration = -1
-					}
-				}
-				scandinavia_region = {
-					limit = { owned_by = ROOT }
-					add_prosperity = 10
-				}
+			scandinavia_region = {
+				limit = { owned_by = ROOT }
+				add_prosperity = 10
 			}
 		}
 	}
@@ -2067,8 +2051,8 @@ swe_internal_slot = {
 		effect = {
 			add_accepted_culture_or_dip_power = { culture = novgorodian }
 			310 = {
-				change_province_name = "Hólmgarðr"
-				rename_capital = "Hólmgarðr"
+				change_province_name = "Hï¿½lmgarï¿½r"
+				rename_capital = "Hï¿½lmgarï¿½r"
 				custom_tooltip = will_upgrade_center_of_trade_to_level_2_tt
 				hidden_effect = {
 					if = {
@@ -5136,9 +5120,6 @@ sca_swe_industrialize_norway_slot = {
 				limit = {
 					has_estate = estate_burghers
 				}
-				unlock_estate_privilege = {
-					estate_privilege = estate_burghers_mountain_expansion
-				}
 				add_estate_loyalty = {
 					estate = estate_burghers
 					loyalty = 15
@@ -5147,9 +5128,6 @@ sca_swe_industrialize_norway_slot = {
 			else = {
 				add_dip_power = 100
 				hidden_effect = {
-					unlock_estate_privilege = {
-						estate_privilege = estate_burghers_mountain_expansion
-					}
 				}
 			}
 		}
