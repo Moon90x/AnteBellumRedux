@@ -14793,12 +14793,13 @@ DEC_ideas = {
 
 DLH_ideas = {
 	start = {
-		cavalry_power = 0.15
-		diplomatic_reputation = 1
+		cavalry_power = 0.2
+		core_creation = -0.1
+
 	}
 	
 	bonus = {
-		num_accepted_cultures = 1
+		discipline = 0.05
 	}
 	
 	trigger = {
@@ -14810,10 +14811,10 @@ DLH_ideas = {
 		army_tradition = 0.5
 	}
 	dlh_suppress_rebellion = {
-		global_unrest = -1
+		land_morale = 0.1
 	}
 	dlh_expansionism = {
-		core_creation = -0.1
+		diplomatic_reputation = 1
 	}
 	dlh_textile_innovation = {
 		production_efficiency = 0.1
