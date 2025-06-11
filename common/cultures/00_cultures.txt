@@ -3044,123 +3044,6 @@ byzantine = {
 			"Apsimaros" "Artemios"
 		}
 	}
-	pontic_greek = {
-		primary = TRE
-		male_names = {
-			Adrianos Akakios Alexandros Alexios Anastasios Anatolios 
-			Andreas Andronikos Anthemios Anthimos Antiokhos Antonios Apollonios 
-			Arsenios Artemios Athanasios Bardas
-			Bartholomaios Basileios Belisarios Boethios Bosporios 
-			Khristophoros Khrysanthos Khrysogonos Damianos Daniel David Demetrios 
-			Diogenes Dionysios Dorotheos Eirenaios Eudoxios Eustratios
-			Eugenios Euphemios Eusebios Eustathios Evangelos Gabriel Gennadios Georgios 
-			Gerasimos Germanos Gregoras Gregorios Hektorios Helias 
-			Herakleios Hierotheos Himerios
-			Konstantinos Pavlos Nikolaos Aineias Alexeios Ambrosios
-			Dionysos Elpidios Hektor 
-			Kastor Manouel Matthaios Nestor Nikomedes Orestes Palaimon Pelagios Petros Philemon Philippos 
-			Skantarios Stefanos Theodoros Thomas Prokopios Ioannes Iason
-		}
-		female_names = {
-			Alexandra Adriane Agathe Agne Agnes Aikaterine Alexeia Anastasia 
-			Anna Anthe Anthousa Antipatra Antonia Apollonia Athanasia Barbara Basillike
-			Chrysogone Damiane Demetra Dionysia Dorothea Aigidia Eirene Elaiodora Epiphania 
-			Eudokia Eudoxia Eugenia Eulalia Eunike Euphemia Euphrasia Euphrosyne
-			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia Gregoria Helene 
-			Ioanna Ioulia Iouliana Ioustina Kale Konstantia 
-			Konstantine Kyra Kyriake Hypatia Zoe
-		}
-		dynasty_names = {
-			Kantakouzenos Doukas Komnenos Palaiologos Laskaris Angelos Phokas
-			"Kameniatis" "Chameas" "Demetrianos" "Laloudios" "Stamopatas" "Peloponnesites" "Klados" "Avastaktos" 
-			"Lardotyros" "Kyritzios" "Kolovos" "Podopagouros" "Touvakes" "Peteinakes" "Ooryphas" "Myxares" "Toxias" 
-			"Bardouchos" "Boilas" "Skepides" "Mamoulianos" "Katakylas" "Drakokephalos" "Rentakes" "Exarchos" "Skepastos" 
-			"Kyminas" "Krasas" "Konstantinakes" "Mouzelis" "Souanites" "Karteroukas" "Machairas" "Koutzodaktylos" 
-			"Kanakaris" "Vamvaloudes" "Leontares" "Klokas" "Axiotes" "Chrysouchos" "Pyrrogenes" "Kophinas" "Makroleon" 
-			"Kalopragmon" "Karphitzes" "Trichares" "Kokkalos" "Kritharatos" "Kretikos" "Tourkos" "Symvatikes" 
-			"Glykomachaires" "Chrysochoos" "Vonos" "Mystakon" "Pterotos" "Monotes" "Manginos" 
-			"Kalavros" "Sikelos" "Kilikos" "Macrodoukas" "Aineidas" 
-			"Pegonitissos" "Kastriotis" "Kamateros" "Skleros"
-			"Makrembolites" "Botaneiates" "Diogenes" "Stratiotikos" "Monomachos" "Kalaphates" 
-			"Paphlagon" "Argyros" "Kourkouas" "Lekapenos" "Karbonopsis" "Makedon" "Stryphnos" "Euforbenos" 
-			"Gabras" "Aaron" "Lampinos" "Tzimiskes" "Kurtikainos" "Murzuphlos" "Balatios" "Ouranos" "Amorios" "Armenios" 
-			"Rangabes" "Logothetes" "Isauros" "Polites" "Studites" "Skamandrenos" "Synkellos" "Kauleas" "Monocharzanios" 
-			"Kassymatas" "Nesteutes" "Scholastikos" "Chrisostomos" "Nazianzen" "Nikomedianos" "Protokletos" "Garidas" 
-			"Grammatikos" "Zeno" "Gavalas" "Axuchos" "Kamonas" "Asidenos" "Hephaistos" "Karatzas" 
-			"Amiroutzes" "Bessarion" "Callistus" "Chalkokondyles" "Gazis" "Kourtesios" "Kallistos" "Kladas" "de Patras" 
-			"Gemistus" "Allatios" "Chalcocondyles" "Korniaktos" "Damaskenos" "Eparchos" "Flanginis" "Fok�s" "Heraclides" 
-			"Kallokratos" "Kottounios" "Leontaritis" "Loukanis" "Margunios" "Musurus" "Nafpliotis" "Hatzid�kis" 
-			"Aprenos"  "Chortatzis" "Gabrielopoulos" "Gounaropoulos" "Belissariotis" "Konstantopoulos" "Kavallarios" 
-			"Maniakis" "Notaras" "Sgouromallis" "Epiphanis" "Logaras" "Eudaimon" "Sakellarios" "Maurozoumis" "Stylaios" 
-			"Maleinos" "Basilakios" "Mamonas" "Kekaumenos" "Metaxas" "Kanavos" "Koukouzelis" "Koresis" "Makrinos" 
-			"Lambardas" "Adrianos" "Agallon" "Akropolites" "Aoinos" "Apokaukos" "Aprenos" "Arbantenos" "Argyros" 
-			"Arianites" "Atrapes" "Balsamon" "Batatzes" "Botaneiates" "Boumbalis" "Bourtzes" "Branas" "Bryennios" 
-			"Chandrenos" "Choniates" "Choumnos" "Chrysaphes" "Chrysoloras" "Dalassenos" "Dermoka�tes" "Diasorenos" 
-			"Dokeianos" "Eirenikos" "Exazenos" "Gavras" "Glabas" "Iagaris" "Kabakes" "Kabasilas" "Kalamanos" "Kaloethes" 
-			"Kalothetos" "Kamateros" "Katrares" "Kaukadenos" "Kontostephanos" "Koresses" "Kourkouas" 
-			"Kourtikes" "Limpidares" "Machoneos" "Makrembolites" "Malakes" "Maliasenos" "Mamalis" 
-			"Mandromenos" "Manouelites" "Melachroinos" "Mourtzouphlos" "Mouzakios" "Mouzalon" "Neokaisareites" 
-			"Nestongos" "Pantechnes" "Paraspondylos" "Petraliphas" "Petzikopoulos" "Philanthropenos" "Pleustes" 
-			"Prasomales" "Prinkips" "Psellos" "Radenos" "Rossatas" "Sarantapechos" "Sebastopoulos" "Segouropoulos" 
-			"Sgouros" "Spartenos" "Sphrantzes" "Strabomytes" "Synadenos" "Syraneres" "Syropoulos" "Tagares" 
-			"Tarchaneiotes" "Tornikes" "Trichas" "Tsaphas" "Tzamplakon" "Tzykandeles" "Zaridas" "Akunin" "Abalantes" 
-			"Aboudimos" "Adralestos" "Agallianos" "Agrites" "Akapnes" "Alopos" "Alousianos" "Alyattes" "Amaseianos" 
-			"Amiropoulos" "Anatolikos" "Andreiomenos" "Androsalites" "Anemas" "Angoures" "Anthemiotes" "Antiochites" 
-			"Antiochos" "Antipapas" "Arbintenos" "Areobindenos" "Areobindos" "Argyropoulos" "Aristenos" "Artoukomites" 
-			"Arvantenos" "Attaleiates" "Aulenos" "Aulepates" "Axinites" "Axiomatikos" "Balantes" "Barbaros" "Bardales" 
-			"Barenos" "Barsakes" "Barys" "Belissariotes" "Bempetziotes" "Beriboes" "Beriotes" "Blachernites" "Blangas" 
-			"Bo�las" "Bouches" "Boutzares" "Bouzenos" "Brachamios" "Bringas" "Chaldos" "Chalkites" "Chalkoutzes" 
-			"Chamaretos" "Charsianites" "Chasanes" "Chazanes" "Choinides" "Choirosphaktes" "Chomatenos" "Chordolibas" 
-			"Choriates" "Chrouselios" "Chrousos" "Chrysanthos" "Chryselios" "Chrysobalantites" "Chrysoberges" "Chytes" 
-			"Daimones" "Dalessenos" "Dalassenos Doukas" "Dekanos" "Diabatenos" "Dikaios" "Diogenes" "Domestikopouolos" 
-			"Doxapatres" "Drakontopoulos" "Drosinos" "Drosos" "Droulenos" 
-			"Elegmites" "Enochos" "Epanokomites" "Ergodotes" "Erotikos" "Eugenianos" "Eugenios" "Eulogios" "Exotrochos" 
-			"Gabalas" "Galaton" "Gelotes" "Gidos" "Glykys" "Goudeles" "Gourzoubathenos" "Granatos" "Gribas" "Grispos" 
-			"Gymnos" "Hagiochrisophorites" "Hagioprokopites" "Hagiotheodorites" "Hagiozacharites" "Hamartolos" 
-			"Haplorabdes" "Haploucheir" "Hexakionites" "Hexaklinites" "Hexamilites" "Hierakes" "Hikanatos" "Iasites" 
-			"Iberopoulos" "Isakiotes" "Italikos" "Kaballarios" "Kabasilas" "Kaisar" "Kalameteros" "Kalamaras" 
-			"Kalampakes" "Kalognomos" "Kamytzes Komnenodoukas" "Kappadokes" "Kappadox Kalampakes" "Karabitenos" 
-			"Karabitziotes" "Kara�onatan" "Karamallos" "Karandenos" "Karantes" "Kardamopoulos" "Karenos" "Karianites" 
-			"Karkaronymos" "Karmalikes" "Karouzeiates" "Kaspax" "Kastamonites" "Katakalon" "Katakalos" "Kataphloros" 
-			"Katas" "Katharos" "Katotikos" "Katzamoundes" "Kegenes" "Kekaleimenos" "Keklymmenos" "Kemineianos" "Kenchres" 
-			"Kentenares" "Kephalas" "Keroularios" "Kibyrraiotes" "Kinnamos" "Kokkinos" "Komnenodoukas" "Konops" 
-			"Kopsenos" "Kostomyres" "Kotertzes" "Kouloukes" "Kouneres" "Krateros" "Krinites" 
-			"Kritharas" "Kritopolos" "Kyminianos" "Kynochorites" "Kyriotes" "Kyritzes" "Labouzenos" "Laktentitzes" 
-			"Lalakon" "Lampsiotes" "Lapardas" "Leichoudes" "Lependrenos" "Leukedonites" "Libadares" "Libadas" 
-			"Libellisios" "Limas" "Liparites" "Lithokastrites" "Logariastes" "Loules" "Louloukes" "Lykaon" "Machetarios" 
-			"Madrites" "Madytenos" "Makropoderes" "Male�nos" "Maleses" "Mamalos" "Manganes" "Marachas" "Marapas" 
-			"Marchapsabos" "Marianites" "Marzapoulos" "Matzaris" "Matzas" "Matzoukes" "Maurex" "Maurokatakalos" "Mauros" 
-			"Maurozomes" "Mechos" "Megalommates" "Megenos" "Meginos" "Melias" "Melissenos" "Mermentoulos" "Mesarites" 
-			"Meschos" "Mesopotamites" "Metochites" "Metropoulos" "Mitylenaios" "Monachites" "Monokarites" "Monomachatos" 
-			"Moroiannes" "Mosaraph" "Moschos" "Mosele" "Moungos" "Mourmoures" "Moustakes" "Mozaes" "Myralides" 
-			"Myrede�tes" "Myrelaetes" "Myron" "Nabatenos" "Narbiotes" "Narsites" "Neophytos" "Neustongios" "Nikerites" 
-			"Nikoulitzes" "Noe" "Oinaiotes" "Olyntenos" "Opos" "Pagomenos" "Pakourianos" "Paktiares" 
-			"Doukas Mourtzouphlos" "Palaiotes" "Palatinos" "Pamphilos" "Panaretos" "Pankalos" 
-			"Panokomites" "Parsakoutenos" "Parthenios" "Paxenos" "Pediasimos" "Peganites" "Pegonites" "Pekoules" 
-			"Pelamedes" "Pentarkles" "Pepagomenos" "Pepanos" "Perenos" "Peribleptenos" "Phalkon" "Phialites" "Philaretos" 
-			"Philinos" "Philokales" "Phrangopolos" "Pistophilos" "Pleures" "Politopolos" "Pothos" "Probatas" 
-			"Promountenos" "Proteuon" "Ptochos" "Rentakenos" "Rizenos" "Rodios" "Rogerios" "Romaios" "Rousopoulos" 
-			"Sagopoulos" "Sarakenopoulos" "Saronites" "Sauloioannes" "Semnos" "Serblias" "Sikoundenos" "Sinopites" 
-			"Skandales" "Skanranos" "Skeblenos" "Skoutariotes" "Skribas" "Smyrnaios" "Solomon" "Sortes" 
-			"Soumenos" "Spanogregores" "Spanopoulos""Stachytzes" "Stemnitziotes"
-			"Strephnes" "Stypeiotes" "Styppes" "Synacheris" "Syros" "Taronites" "Tatikes" "Tetragonites" "Theodorokanos" 
-			"Theodosiopolites" "Thrakesios" "Thylakas" "Tilapos" "Timonites" "Tourmarchopoulos" "Traphines" "Trellos" 
-			"Triakontaphyllos" "Triblattites" "Trichinopodes" "Triphyllios" "Tzanzes" "Tzefres" "Tzetas" "Tzipoureles" 
-			"Tzirithon" "Tzoulas" "Tzoumenes" "Tzouroulles" "Tzympenos" "Vatatzes" "Xanthos" "Xenos" "Xeros" "Xiphias" 
-			"Xiphilinos" "Xylinites" "Zabareiotes" "Zagarommates" "Zerbos" "Zomes" "Zonaras" "Kalomalas" "Kaloudes" 
-			"Kampanarios" "Kamytzes" "Kallierges" "Loukites" "Kometopoulos" "Basiliakos" 
-			"Pateranos" "von Winterthur" "Paleologo" "Gregoras" "Sanudo" "Komytzes" "Lascaris" "Kyrdiniatis" "Agapetos" 
-			"Attikos" "Anastasiotis" "Evergetidiotis" "Chliarinos" "Chysovergis" "Eugeniotis" "Vorradiotis" "Mountanis" 
-			"Theotokitis" "Viticlenou" "Autoreianos" "Akoimitos" "Charitopoulos" "Panemorphiotis" "Hyakinthiotis" 
-			"Galesiotis" "Bekkos" "Kyprios" "Gonitis" "Pammakaristiotis" "Perivleptiotis" "Manganiotis" "Kalekas" 
-			"Herakleidon" "Xylaloes" "Syrikos" "Tatikios" "Aspietes" "Kastenianos" "Leovachos" "Maniatis" "Vaklikas" 
-			"Maurikios" "Skrinarios" "Mesanaktis" "Lachanodrakon" "Kalokyris" "Lykodontis" "Skyllaris" "Ampelas" 
-			"Gerontas" "Apokapis" "Pallikarios" "Orphanotrophos" "Chlorokokis" "Hexavoulis" "Martinakios" "Agelastos" 
-			"Kotzes" "Toxaras" "Aplakes" "Gomostos" "Koupharas" "Tyropoulis" "Kontomytes" "Chenopoulos" "Sellokalas" 
-			"Kentrokoukouros" "Antigonos" "Pastillas" "Katakalitzes" "Manikophagos" "Kolokynthis" "Rachites" "Bua Spatas" 
-			"Apsimaros" "Artemios"
-		}
-	}
 	cappadocian_greek = {
 		primary = TRE
 		male_names = {
@@ -3472,6 +3355,9 @@ byzantine = {
 
 caucasian = {
 	graphical_culture = easterngfx
+	pontic_greek = {
+		primary = TRE
+	}
 	georgian = {
 		primary = GEO
 		dynasty_names = { 
@@ -3944,6 +3830,42 @@ maghrebi = {
 	
 iranian	= {
 	graphical_culture = muslimgfx
+	uzbehk = {
+		primary = SHY
+		male_names = {
+			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
+			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
+			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
+			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
+			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
+			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
+			Iskandar
+		}
+		female_names = {
+			Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
+		}
+	}
+	turkmeni = {
+		primary = KHI
+		province = { local_has_qizilbash = yes }
+		dynasty_names = {
+			"Arabshahid" "Qungrat" "Bayan Arslan" "Mongke Cheren" "Mongke Bayar" "Suren Chinua" "Oyugun Nasan"
+			"Bora Tolui" Qadancher Batulun Batutai Bokejin Arighqan Burilgiteni
+			Bayarnai Subegene Tegusdai Yekedei
+		}
+		male_names = {
+			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
+			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
+			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
+			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
+			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
+			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
+			Iskandar
+		}
+		female_names = {
+			Hooda Malaika Munira Rabiya Rafiqa Ksyusha Sabina Zarina Hatyra Gulnaza Selbi Aziza Jeren Zeynab Myahri
+		}
+	}
 	persian = {
 		primary = PER
 		male_names = { 
@@ -4372,42 +4294,6 @@ altaic = {
 		}
 		female_names = {
 			Hoelun Tam�l�n Sorghaghtani Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-	}
-	uzbehk = {
-		primary = SHY
-		male_names = {
-			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
-			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
-			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
-			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
-			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
-			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
-			Iskandar
-		}
-		female_names = {
-			Tem�len B�rte Mandukhai Samar Zaufishan Mulan Aigiarn Borte Chabi Conchaka Doquez-khatum Goland Ho'elun Khultulun Kokachin Mandughai Oghul Qamish Orqina Sorghaghtani Beki Toregene 
-		}
-	}
-	turkmeni = {
-		primary = KHI
-		province = { local_has_qizilbash = yes }
-		dynasty_names = {
-			"Arabshahid" "Qungrat" "Bayan Arslan" "Mongke Cheren" "Mongke Bayar" "Suren Chinua" "Oyugun Nasan"
-			"Bora Tolui" Qadancher Batulun Batutai Bokejin Arighqan Burilgiteni
-			Bayarnai Subegene Tegusdai Yekedei
-		}
-		male_names = {
-			Abdul-Aziz Abdul-Karim Abdul-Mumin Abdul-Rahim Abdulla Abu Said Abu'l-Feiz Abu'l-Ghazi Abu'l-Khayr 
-			Abu'l-Mansur Agatay Alim Anusha Arab Muhammad Avanesh Bahadur Bakht Baqi Muhammad Budjuga Bureke 
-			Djuchi Dost Habash Hadji Hadji Muhammad Hassan Quli Haydar Imam Quli Ilbars Irdana Isfandiyar Isim 
-			Janibek Kal Khudayar Khudaydad Kochkunju Muhammad Muhammad Amin Muhammad Hakim Muhammad Rahim Nadir 
-			Muhammad Narbuta Navruz Ahmad Niyaz Pir Muhammad Sanjar Sevinch Shadi Shahmurad Shahrukh Shaykh 
-			Subhan Quli Sufyan Suleyman Tahir Timur Ubaydulla Umar Vali Vali Muhammad Yadgar Daniyal Haidar 
-			Iskandar
-		}
-		female_names = {
-			Hooda Malaika Munira Rabiya Rafiqa Ksyusha Sabina Zarina Hatyra Gulnaza Selbi Aziza Jeren Zeynab Myahri
 		}
 	}
 	uyghur = {
@@ -7265,6 +7151,100 @@ thai_group = {
 	graphical_culture = southeastasiangfx
 	second_graphical_culture = asiangfx
 
+	burmese = {
+		primary = TAU
+		dynasty_names = {
+			Taungu Ava Pagan Prome "Myede Mong" Sagaing Kyaukse Pinya Myinsaing Konbaung
+		}
+		male_names = {
+			"Zalahtinyan" "Sithukyawhtin" "Minkyinyo" "Tabinshwehti" "Thamindwut" "Thaminhatau" "Bayinnaug" 
+			"Handabayin" "Anaukpetlun" "Minradeippa" "Thalun" "Pindale" "Pye" "Narawara" "Minredyawdin" "Sane" 
+			"Taninganwe" "Hamdammayaza" 
+		}
+		female_names = {
+			"Yaza Dewi" "Atula Thiri" "Khin Myo Sit" "Khin Myat Hset" "Khin Ma Lat"
+		}
+	}
+	karen = {
+		dynasty_names = {
+			"An" "She" "Liu" "Longzan" "Feng" "Pu"
+		}
+		male_names = { # Same as Bai
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = { # Same as Bai
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	kachin = {
+		dynasty_names = {
+			"Duan" "Gao" "Meng"
+		}
+		male_names = { # Same as Bai
+			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
+			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
+			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
+			Cihuan Cican He Ji Da Yuchun
+		}
+		female_names = { # Same as Bai
+			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
+		}
+	}
+	khmer = {
+		primary = KHM
+		dynasty_names = {
+			Angkor "Siem Reap" Oudong Battambang "Stung Treng" Kratie "Phnom Penh"
+		}
+		male_names = {
+			"Barom Reachea" "Noreay Ramathipatei" "Soriyotei" "Thommo Reachea" "Srey Sukonthor" "Ang Chan" "Reachea Ramathipatei"
+			"Barom Reachea" "Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea" "Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Narayanaraja" "Ponhea Yat" "Narayanaraja" 
+			"Sri Raja" "Rajadhiraja" "Dharmarajadhiraja" "Damkhat Sukonthor" "Reamea Chungprey" "Keo Ban On" "Ponhea Yor" "Ponhea An" "Ponhea Nhom" "Srei Soriyopear" "Udayaraja" "Ponhea To" "Ang Non" "Ponhea Chan" "Ang Sur" 
+			"Ang Chea" "Ang Nan" "Ang Sor" "Ang Yong" "Ang Em" "Ang Tham" "Ang Sngoun" "Ang Tong" "Ang Ton" "Ang Eng" 
+			"Ang Duong"
+		}
+		female_names = {
+			"Boupha" "Sakngea" "Ang Mey" "Anak Moneang Krachap" "Neang Pou" Achariya Akara Anchali Arunny Ary Bopha Botum 
+			Boupha Champei Champey Chamroeun Chan Chankrisna Chanlina Chanmony Channary Chanthavy Chantou Chantrea 
+			Chanvatey Chariya Chavy Chaya Chea Chenda Chhaiya Chhean Chhorvin Chhorvon Chivy Choum Da Daevy Dara 
+			Darareaksmey Davi Jorani Kalianne Kaliyanei Kalliyan Kanleakhana Kannareth Kannitha Kanya Kesor Kolab Kolthida 
+			Kravann Kun Thea Kunthea Leakena Leap Mach Makara Malis Maly Mau Mealea Mean Mliss Mony Nakry Thom Thyda Tina 
+			Toch Tola Vanna Veasna Veata Vimean Nary Nearidei Neary Reach Reaksmey Rangsei Reasmey Sokha Sokhanya Sokhom 
+			Sok Mean Rom Chang Rotha Samphy Roumduol Roumjong Samnang Saley Savady Sawatdee Seda Seyha Sikha Sinuon Sita 
+			Soboen Socheat Sok Sombo Sonisay Sonith Peou Nuon Phally Phary Pich Pheakdei Pheakkley Phhoung Ponlok Ponnleu 
+			Pisey Putrea Punthea Rachana Rachany 
+		}
+	}
+	mon = {
+		primary = PEG
+		dynasty_names = {
+			Pegu Dagon Thaton Martaban
+		}
+		male_names = {
+			"Razadarit" "Binnya Dhammaraza" "Binnya Ran" "Binnya Waru" "Binnya Kyan" "Leik Mawdaw" "Mawdaw" 
+			"Dhammazedi" "Takayutpi" "Smim Sawhtut" "Smim Htaw" "Binnya Dala"
+		}
+		female_names = {
+			"Mya" "Shin Sawbu"
+		}	
+	}
+	vietnamese = {
+		primary = DAI
+		dynasty_names = {
+			"L�" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
+		}
+		male_names = {
+			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
+			"Thuan" "Tuan" "Oanh" "Y" "Xuan" "Dang Dung" "Dang Doanh" "Trang Tong" "Phuc Hai" "Phuc Nguyen" "Mau Hop" 
+			"Kinh Chi" "Kinh Cung" "Kinh Khoan" "Kinh Vu" "Duy Duong" "Duy Phuong" "Duy Tuong" "Duy Than" "Duy Dieu" 
+			"Duy Khiem" "Hue" "Quang Toan" "Duy Hop"
+		}
+		female_names = {
+			"Kim Anh" "Thuy Tram" "Bich Ngoc" "Phuong Nga" "Thanh Thao"
+		}
+	}
 	central_thai = {
 		primary = AYU
 		dynasty_names = { 
@@ -7353,139 +7333,14 @@ thai_group = {
 southeastasian_group = { 
 	graphical_culture = southeastasiangfx
 	second_graphical_culture = asiangfx
-	khmer = {
-		primary = KHM
-		dynasty_names = {
-			Angkor "Siem Reap" Oudong Battambang "Stung Treng" Kratie "Phnom Penh"
-		}
-		male_names = {
-			"Barom Reachea" "Noreay Ramathipatei" "Soriyotei" "Thommo Reachea" "Srey Sukonthor" "Ang Chan" "Reachea Ramathipatei"
-			"Barom Reachea" "Chey Chettha" "Ney Khan" "Preah Ram" "Keo Hua" "Outey Reachea" "Dharmaraja" "Padumaraja" "Ramathipadi" "Satha" "Ream Reachea" "Narayanaraja" "Ponhea Yat" "Narayanaraja" 
-			"Sri Raja" "Rajadhiraja" "Dharmarajadhiraja" "Damkhat Sukonthor" "Reamea Chungprey" "Keo Ban On" "Ponhea Yor" "Ponhea An" "Ponhea Nhom" "Srei Soriyopear" "Udayaraja" "Ponhea To" "Ang Non" "Ponhea Chan" "Ang Sur" 
-			"Ang Chea" "Ang Nan" "Ang Sor" "Ang Yong" "Ang Em" "Ang Tham" "Ang Sngoun" "Ang Tong" "Ang Ton" "Ang Eng" 
-			"Ang Duong"
-		}
-		female_names = {
-			"Boupha" "Sakngea" "Ang Mey" "Anak Moneang Krachap" "Neang Pou" Achariya Akara Anchali Arunny Ary Bopha Botum 
-			Boupha Champei Champey Chamroeun Chan Chankrisna Chanlina Chanmony Channary Chanthavy Chantou Chantrea 
-			Chanvatey Chariya Chavy Chaya Chea Chenda Chhaiya Chhean Chhorvin Chhorvon Chivy Choum Da Daevy Dara 
-			Darareaksmey Davi Jorani Kalianne Kaliyanei Kalliyan Kanleakhana Kannareth Kannitha Kanya Kesor Kolab Kolthida 
-			Kravann Kun Thea Kunthea Leakena Leap Mach Makara Malis Maly Mau Mealea Mean Mliss Mony Nakry Thom Thyda Tina 
-			Toch Tola Vanna Veasna Veata Vimean Nary Nearidei Neary Reach Reaksmey Rangsei Reasmey Sokha Sokhanya Sokhom 
-			Sok Mean Rom Chang Rotha Samphy Roumduol Roumjong Samnang Saley Savady Sawatdee Seda Seyha Sikha Sinuon Sita 
-			Soboen Socheat Sok Sombo Sonisay Sonith Peou Nuon Phally Phary Pich Pheakdei Pheakkley Phhoung Ponlok Ponnleu 
-			Pisey Putrea Punthea Rachana Rachany 
-		}
-	}
-	mon = {
-		primary = PEG
-		dynasty_names = {
-			Pegu Dagon Thaton Martaban
-		}
-		male_names = {
-			"Razadarit" "Binnya Dhammaraza" "Binnya Ran" "Binnya Waru" "Binnya Kyan" "Leik Mawdaw" "Mawdaw" 
-			"Dhammazedi" "Takayutpi" "Smim Sawhtut" "Smim Htaw" "Binnya Dala"
-		}
-		female_names = {
-			"Mya" "Shin Sawbu"
-		}	
-	}
-	vietnamese = {
-		primary = DAI
-		dynasty_names = {
-			"L�" "Tran" "Mac" "Nguyen" "Trinh" "Vu" "Nguyen Phuc" "Nguyen Quang"
-		}
-		male_names = {
-			"An" "Quy Ly" "Han Thuong" "Ngoi" "Quy Khoang" "Loi" "Nguyen Long" "Bang Co" "Nghi Dan" "Tu Thanh" "Tranh" 
-			"Thuan" "Tuan" "Oanh" "Y" "Xuan" "Dang Dung" "Dang Doanh" "Trang Tong" "Phuc Hai" "Phuc Nguyen" "Mau Hop" 
-			"Kinh Chi" "Kinh Cung" "Kinh Khoan" "Kinh Vu" "Duy Duong" "Duy Phuong" "Duy Tuong" "Duy Than" "Duy Dieu" 
-			"Duy Khiem" "Hue" "Quang Toan" "Duy Hop"
-		}
-		female_names = {
-			"Kim Anh" "Thuy Tram" "Bich Ngoc" "Phuong Nga" "Thanh Thao"
-		}
-	}
-	dynasty_names = {
-		"Mangrai" "Chaochetton" "Phra Ruang" "Champassak"
-	}
+	bok31
 }
 
 burman = {
 	graphical_culture = asiangfx
 
-	burmese = {
-		primary = TAU
-		dynasty_names = {
-			Taungu Ava Pagan Prome "Myede Mong" Sagaing Kyaukse Pinya Myinsaing Konbaung
-		}
-		male_names = {
-			"Zalahtinyan" "Sithukyawhtin" "Minkyinyo" "Tabinshwehti" "Thamindwut" "Thaminhatau" "Bayinnaug" 
-			"Handabayin" "Anaukpetlun" "Minradeippa" "Thalun" "Pindale" "Pye" "Narawara" "Minredyawdin" "Sane" 
-			"Taninganwe" "Hamdammayaza" 
-		}
-		female_names = {
-			"Yaza Dewi" "Atula Thiri" "Khin Myo Sit" "Khin Myat Hset" "Khin Ma Lat"
-		}
-	}
-	chin = {
-		primary = MLB
-		dynasty_names = {
-			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
-		}
-		male_names = {
-			"Pengshiba" "Ningthou Khomba" "Senbi Kiyaamba" "Koiremba" "Chingkhong Lamgai Ngamba" "Nongyin Phaaba" 
-			"Senbi Khomba" "Taangjaamba" "Chalaamba" "Munghaamba" "Khagemba" "Khunjaoba" "Paikhomba" "Charairongba" 
-			"Paamheiba" "Chit Sai" "Bhorot Sai" "Maraamba" "Chingthang Khomba" "Labeinachandra" "Maramaba" 
-			"Madhuchandra" "Chourjit" "Marjit"
-		}
-		female_names = {
-			"Mangaldahi" "Jira" "Hira" Tashi Tenzin Tenzing Yangchen
-		}
-	}
-	karen = {
-		dynasty_names = {
-			"An" "She" "Liu" "Longzan" "Feng" "Pu"
-		}
-		male_names = { # Same as Bai
-			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
-			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
-			Cihuan Cican He Ji Da Yuchun
-		}
-		female_names = { # Same as Bai
-			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
-		}
-	}
-	kachin = {
-		dynasty_names = {
-			"Duan" "Gao" "Meng"
-		}
-		male_names = { # Same as Bai
-			Qizhen Qiyu Jianjun Youcheng Houzhao Houcong Zaihou Yijun Changluo Youjian Yousong Yujian Youlang Chenggong 
-			Kehshuan Biao Shuang Gang Su Zhen Fu Zi Qi Tan Chun Bai Gui Zhi Quan Pian Hui Song Mo Ying Jing Dang Nan 
-			Gaoxu Caosui Gauxi Youyuan Youlun Youbin Houwei Youxiao Youji Youxue Youyi Youshan Cixuan Cijiang Cizhao 
-			Cihuan Cican He Ji Da Yuchun
-		}
-		female_names = { # Same as Bai
-			Heying Chunmei Tianhui Kon Mao Yuying Yuantong Yanxiang Xiurong Shouying Fuyuan Luzhen Ruirong Suzhen
-		}
-	}
-	arakanese = {
-		primary = ARK
-		dynasty_names = {
-			Thandwe "Mrauk-U"
-		}
-		male_names = {
-			"Radzathu" "Thinggathu" "Saw Mon" "Anawrahta" "Khayi" "Letya" "Naranu" "Ba Saw Phyu" "Dawlya" "Ba Saw Nyo" 
-			"Ran Aung O" "Salingathu" "Raza" "Gazapati" "Saw O" "Thazata" "Minkhaung" "Min Bin" "Dikha" "Saw Hla" 
-			"Sekkya" "Hpalaung" "Razagri" "Khamaung" "Thiri Thudhamma" "Sanay" "Narapati" "Thado" "Sanda Thudhamma" 
-			"Wara Dhamma" "Mani Dhamma" "Sanda Thuriya" "Nawrahta" "Mayonpiya" "Kalagandat" "Naradipati" "Sanda Wimala" 
-			"Sanda Wizaya" "Naradipadi" "Narapawara" "Madarit" "Nara Apaya" "Thirithu" "Apaya" "Sanda Thumana" "Sanda Thaditha" "Thammada"
-		}
-		female_names = {
-			"Saw Sit" "Saw Pu Nyo" "Saw Pyauk" "Saw Pyinsa" "Saw Yin Mi"
-		}
-	}
+	bok35
+	
 }
 
 pacific = {
@@ -7809,6 +7664,37 @@ aboriginal_australian = {
 eastern_aryan = {
 	graphical_culture = indiangfx
 
+	chin = {
+		primary = MLB
+		dynasty_names = {
+			Shubol Chandrakirti Ganavira Marjit Charajit Pitambara Moduchandra Harshachandra Nara Devendra
+		}
+		male_names = {
+			"Pengshiba" "Ningthou Khomba" "Senbi Kiyaamba" "Koiremba" "Chingkhong Lamgai Ngamba" "Nongyin Phaaba" 
+			"Senbi Khomba" "Taangjaamba" "Chalaamba" "Munghaamba" "Khagemba" "Khunjaoba" "Paikhomba" "Charairongba" 
+			"Paamheiba" "Chit Sai" "Bhorot Sai" "Maraamba" "Chingthang Khomba" "Labeinachandra" "Maramaba" 
+			"Madhuchandra" "Chourjit" "Marjit"
+		}
+		female_names = {
+			"Mangaldahi" "Jira" "Hira" Tashi Tenzin Tenzing Yangchen
+		}
+	}
+	arakanese = {
+		primary = ARK
+		dynasty_names = {
+			Thandwe "Mrauk-U"
+		}
+		male_names = {
+			"Radzathu" "Thinggathu" "Saw Mon" "Anawrahta" "Khayi" "Letya" "Naranu" "Ba Saw Phyu" "Dawlya" "Ba Saw Nyo" 
+			"Ran Aung O" "Salingathu" "Raza" "Gazapati" "Saw O" "Thazata" "Minkhaung" "Min Bin" "Dikha" "Saw Hla" 
+			"Sekkya" "Hpalaung" "Razagri" "Khamaung" "Thiri Thudhamma" "Sanay" "Narapati" "Thado" "Sanda Thudhamma" 
+			"Wara Dhamma" "Mani Dhamma" "Sanda Thuriya" "Nawrahta" "Mayonpiya" "Kalagandat" "Naradipati" "Sanda Wimala" 
+			"Sanda Wizaya" "Naradipadi" "Narapawara" "Madarit" "Nara Apaya" "Thirithu" "Apaya" "Sanda Thumana" "Sanda Thaditha" "Thammada"
+		}
+		female_names = {
+			"Saw Sit" "Saw Pu Nyo" "Saw Pyauk" "Saw Pyinsa" "Saw Yin Mi"
+		}
+	}
 	assamese = {
 		primary = ASS
 		dynasty_names = {
