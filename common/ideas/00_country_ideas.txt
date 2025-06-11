@@ -3245,6 +3245,7 @@ QNG_ideas = {
 	}
 	pigtail_or_death = {
 		global_unrest = -2
+		cavalry_power = 0.15
 	}
 	qng_bogda_khan = {
 		years_of_nationalism = -5
