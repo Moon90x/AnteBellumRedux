@@ -757,7 +757,7 @@ excellent_vintage = {
 }
 
 poor_uniforms = {
-	land_morale = -0.05
+	
 }
 
 salt_crisis = {
