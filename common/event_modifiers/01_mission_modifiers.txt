@@ -9526,6 +9526,7 @@ fra_improved_court_houses_modifier = {
 fra_victory_against_the_english_modifier = {
 	manpower_recovery_speed = 0.1
 	war_exhaustion = -0.03
+    ae_impact = -0.2
 }
 
 fra_close_ties_modifier = {
