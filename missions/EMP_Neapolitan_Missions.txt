@@ -515,9 +515,6 @@ emp_naples_4 = {
 			NOT = { country_or_non_sovereign_subject_holds = ROOT }
 		}
 		trigger = {
-			any_owned_province = {
-				area = baleares_area
-			}
 			corsica_sardinia_area = {
 				type = all
 				country_or_non_sovereign_subject_holds = ROOT
