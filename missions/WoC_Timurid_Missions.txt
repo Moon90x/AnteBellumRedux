@@ -1317,17 +1317,13 @@ WoC_timurids_3 = {
 			}
 		}
 		trigger = {
-			custom_trigger_tooltip = {
-				tooltip = TIM_shah_rukh_died
-				has_global_flag = death_of_shah_rukh
-			}
 			
 			NOT = {
 				any_subject_country = {
 					liberty_desire = 40
 				}
 			}
-			army_size = 30
+			army_size = 60
 		}
 		effect = {
 			country_event_with_option_insight = {
