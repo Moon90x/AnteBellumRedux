@@ -8,6 +8,6 @@ matrox_ai = {
 		ai = yes
 		NOT = {tag = PAP}
 	}
-	defensiveness = -0.5
+	defensiveness = -0.33
 	diplomatic_upkeep = -2
 }
