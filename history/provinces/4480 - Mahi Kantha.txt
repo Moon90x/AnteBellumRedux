@@ -1,7 +1,7 @@
 #2056 - Rewa Kantha
 
-owner = IDR
-controller = IDR
+owner = MER
+controller = MER
 culture = gujarati
 religion = hinduism
 capital = "Idar"
@@ -11,7 +11,7 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 is_city = yes
-add_core = IDR
+add_core = MER
 discovered_by = indian
 discovered_by = muslim 
 discovered_by = ottoman
@@ -36,8 +36,8 @@ discovered_by = chinese
 	remove_core = MER
 }
 1522.1.1 = {
-	owner = IDR
-	controller = IDR
+	owner = MER
+	controller = MER
 }
 1656.1.1 = {
 	owner = MUG
@@ -45,8 +45,8 @@ discovered_by = chinese
 	add_core = MUG
 }
 1658.1.1 = {
-	owner = IDR
-	controller = IDR
+	owner = MER
+	controller = MER
 	remove_core = MUG
 }
 1664.1.1 = {
@@ -55,8 +55,8 @@ discovered_by = chinese
 	add_core = MUG
 }
 1679.1.1 = {
-	owner = IDR
-	controller = IDR
+	owner = MER
+	controller = MER
 	remove_core = MUG
 }
 1680.1.1 = {
@@ -65,8 +65,8 @@ discovered_by = chinese
 	add_core = MUG
 }
 1718.1.1 = {
-	owner = IDR
-	controller = IDR
+	owner = MER
+	controller = MER
 	remove_core = MUG
 }
 1813.1.1 = {

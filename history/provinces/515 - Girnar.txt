@@ -1,7 +1,7 @@
 #515 - Girnar
 
-owner = JGD
-controller = JGD
+owner = MER
+controller = MER
 culture = saurashtri
 religion = hinduism
 capital = "Girnar"
@@ -11,7 +11,7 @@ base_tax = 3
 base_production = 3
 base_manpower = 2
 is_city = yes
-add_core = JGD
+add_core = MER
 fort_15th = yes
 discovered_by = indian
 discovered_by = muslim 
@@ -28,8 +28,8 @@ discovered_by = east_african
 }
 1498.1.1 = { discovered_by = POR }
 1725.1.1 = {
-	owner = JGD
-	controller = JGD
+	owner = MER
+	controller = MER
 	remove_core = MUG
 } # Vassal of Gaikwads
 

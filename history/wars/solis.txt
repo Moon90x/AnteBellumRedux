@@ -306,3 +306,17 @@ war_goal = {
     rem_attacker = TIM
     rem_defender = BAL
 }
+
+name = "AyAdma11"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+1444.11.11 = {
+    add_attacker = SRH
+    add_defender = MER
+}
+1444.11.11 = {
+    rem_attacker = SRH
+    rem_defender = MER
+}
