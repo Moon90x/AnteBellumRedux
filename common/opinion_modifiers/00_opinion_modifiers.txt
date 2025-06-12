@@ -234,7 +234,7 @@ historical_friend = {
 }
 
 historical_rival = {
-	opinion = -25
+	opinion = -100
 }
 
 weak_overlord = {
