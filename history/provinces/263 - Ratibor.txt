@@ -4,18 +4,17 @@ latent_trade_goods = {
 	coal
 }
 
-owner = OPL
-controller = OPL
+owner = GLG
+controller = GLG
 culture = schlesian
 religion = catholic
-hre = yes
 base_tax = 3 
 base_production = 3
 capital = "Ratibor"
 is_city = yes
 trade_goods = iron
 base_manpower = 2
-add_core = OPL
+add_core = GLG
 discovered_by = KAZ
 discovered_by = CRI
 discovered_by = GOL

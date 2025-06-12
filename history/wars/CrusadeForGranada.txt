@@ -1,0 +1,15 @@
+name = "Crusade for Granada"
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1440.1.1 = {
+}
+
+1443.1.1 = {
+}
+
+#Peace and end of war
+1444.1.1 = {
+}
