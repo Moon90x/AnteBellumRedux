@@ -4,6 +4,7 @@ technology_group = indian
 primary_culture = panjabi
 religion = hinduism
 capital = 510 #Sirhind
+add_manpower = 1
 
 #Lodis
 1431.1.1 = {

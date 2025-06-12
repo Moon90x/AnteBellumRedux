@@ -62,22 +62,22 @@ tur_def_war = {
 srh_def_war = {
 	potential = {
 	ai = no
-	tag = SRH
+	tag = DLH
 		}
 	trigger = {
 		NOT  = { is_year = 1480}
 		NOT = { num_of_allies = 1 }
-		tag = SRH
+		tag = DLH
 						is_in_war = {
 							attackers = TIM
 						}
 						is_in_war = {
-							defenders = SRH
+							defenders = DLH
 						}
 						TIM = {
 							ai = no
 						}
-						SRH = {
+						DLH = {
 							ai = no
 						}
 					}

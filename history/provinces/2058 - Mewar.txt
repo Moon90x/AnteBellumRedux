@@ -7,6 +7,7 @@ religion = hinduism
 capital = "Kotharia"
 trade_goods = gold #Silver and Zink mines
 #trade_goods = coper #Zink and Silver mines
+fort_15th = yes
 hre = no
 base_tax = 3
 base_production = 6

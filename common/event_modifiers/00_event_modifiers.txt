@@ -1303,7 +1303,6 @@ sunday_schools = {
 }
 
 bad_discipline = {
-	discipline = -0.05
 }
 
 good_discipline = {
@@ -8975,7 +8974,6 @@ displeased_the_wotan = {
 }
 
 greed_of_freyja = {
-	discipline = -0.025
 }
 
 freyjas_chosen = {
