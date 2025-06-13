@@ -641,7 +641,7 @@ mamluk_galley_doctrine = {
 	cost = 0.1
 	country_modifier = {
 		galley_power = 0.15
-		galley_cost = -0.25
+		naval_forcelimit_modifier = 0.2
 	}
 	effect = {}
 	removed_effect = {}

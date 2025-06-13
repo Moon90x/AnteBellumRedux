@@ -3001,6 +3001,7 @@ tur_arabian_conquest = {
 			}
 		}
 		effect = {
+			add_manpower = 20
 			add_country_modifier = {
 				name = tur_janissary_example
 				duration = 9125
