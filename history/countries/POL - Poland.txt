@@ -16,9 +16,9 @@ add_truce_with = HUN
 
 1444.11.11 = {
 	monarch = {
-		adm = 0
-		mil = 0
-		dip = 0
+		adm = 4
+		mil = 4
+		dip = 4
 		regent = yes
 	}
 }
@@ -190,7 +190,7 @@ add_truce_with = HUN
 	queen = {
 		country_of_origin = TRA
 		name = "Barbara"
-		dynasty = "Zápolya"
+		dynasty = "Zï¿½polya"
 		birth_date = 1490.1.1
 		death_date = 1515.10.2
 		female = yes
