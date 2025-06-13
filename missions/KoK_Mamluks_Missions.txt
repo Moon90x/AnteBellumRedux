@@ -493,8 +493,8 @@ mam_missions_2 = {
 			
 		}
 		trigger = {
-			navy_size_percentage = 0.9
-			navy_size = 35
+			navy_size_percentage = 0.8
+			navy_size = 30
 		}
 		effect = {
 			country_event = { id = flavor_mam.100 } 
@@ -817,7 +817,7 @@ mam_missions_2 = {
 		trigger = {
 			if = {
 				limit = { ai = no }
-				trader = 3
+				trader = 1
 			}
 			else = { trader = 1 }
 			OR = {
