@@ -4,6 +4,7 @@ primary_culture = rajput
 religion = hinduism
 technology_group = indian
 capital = 518	# Chittogarh
+add_manpower = 2
 
 1382.1.1 = {
 	if = {

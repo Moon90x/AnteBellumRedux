@@ -4,6 +4,7 @@ primary_culture = central_thai
 religion = buddhism
 technology_group = chinese
 capital = 600 # Ayutthaya
+add_manpower = 2
 
 
 1395.1.1 = {

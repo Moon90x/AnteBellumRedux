@@ -2879,10 +2879,11 @@ AYU_ideas = {
 		vassal_income = 0.2
 	}
 	corvee_system = {
+		development_cost = -0.1
 		global_manpower_modifier = 0.25
 	}
 	trading_links = {
-		diplomatic_reputation = 1
+		global_manpower_modifier = 0.25
 	}
 	ayu_foreign_mercenaries = {
 		merc_maintenance_modifier = -0.15
@@ -2891,7 +2892,7 @@ AYU_ideas = {
 		improve_relation_modifier = 0.3
 	}
 	phrai_luang = {
-		development_cost = -0.1
+		diplomatic_reputation = 1
 	}
 	personal_executions = {
 		harsh_treatment_cost = -0.2
@@ -15009,13 +15010,13 @@ MER_ideas = {
 		army_tradition_decay = -0.01
 	}
 	mer_victory_tower = {
-		prestige = 1
+		development_cost = -0.1
 	}
 	mer_kumbhalgarh = {
 		defensiveness = 0.15
 	}
 	mer_city_of_lakes = {
-		development_cost = -0.1
+		prestige = 1
 	}
 	mer_recall_purbias = {
 		global_manpower_modifier = 0.15

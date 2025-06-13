@@ -523,7 +523,7 @@ estate_church_clerical_ministers = {
 			NOT = { has_country_flag = MUG_upgrade_clerical_ministers_flag }
 		}
 		modifier = {
-			monthly_piety = 1
+			monthly_piety = 0.01
 		}
 	}
 	conditional_modifier = {
@@ -682,7 +682,7 @@ estate_church_freedom_of_interpretation = {
 	penalties = {
 	}
 	benefits = {
-		monthly_piety = -1
+		monthly_piety = -0.01
 	}
 	conditional_modifier = {
 		trigger = { has_government_mechanic = russian_modernization_mechanic }
