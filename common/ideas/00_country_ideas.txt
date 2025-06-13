@@ -17138,10 +17138,11 @@ MLC_ideas = {
 MSA_ideas = {
 	start = {
 		global_trade_power = 0.15
-		land_morale = 0.1
+		land_morale = 0.15
 	}
 	bonus = {
 		ship_durability = 0.1
+		discipline = 0.05
 	}
 	trigger = {
 		tag = MSA
