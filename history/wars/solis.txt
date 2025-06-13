@@ -342,3 +342,30 @@ war_goal = {
     rem_defender = SHM
     rem_defender = DAW
 }
+name = "AyAdma15"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+1444.11.11 = {
+    add_attacker = HUN
+    add_defender = VEN
+}
+1444.11.11 = {
+    rem_attacker = HUN
+    rem_defender = VEN
+}
+
+name = "AyAdma16"
+war_goal = {
+    type = superiority_punitive
+    casus_belli = cb_super_badboy
+}
+1444.11.11 = {
+    add_attacker = HAB
+    add_defender = VEN
+}
+1444.11.11 = {
+    rem_attacker = HAB
+    rem_defender = VEN
+}
