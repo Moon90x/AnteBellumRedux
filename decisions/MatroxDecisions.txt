@@ -1,5 +1,170 @@
 country_decisions = {
-
+tur_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = TUR
+	}
+	allow = {
+		NOT = {is_year = 1500}
+		tag = TUR
+		382 = { is_core = TUR}
+		377 = { is_core = TUR}
+	}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
+mam_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = MAM
+	}
+	allow = {
+		NOT = {is_year = 1500}
+		tag = MAM
+		2298 = { is_core = MAM}
+		318 = { is_core = MAM}
+	}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
+bur_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = BUR
+	}
+	allow = {
+		182 = { is_core = BUR}
+		183 = { is_core = BUR}
+		4388 = { is_core = BUR}
+		185 = { is_core = BUR}
+		}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
+fra_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = FRA
+	}
+	allow = {
+		NOT = {is_year = 1500}
+		tag = FRA
+		191 = { is_core = FRA}
+		4392 = { is_core = FRA}
+		1877 = { is_core = FRA}
+		89 = { is_core = FRA}
+		88 = { is_core = FRA}
+		1743 = { is_core = FRA}
+	}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
+bah_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = BAH
+	}
+	allow = {
+		NOT = {is_year = 1500}
+		tag = BAH
+		541 = { is_core = BAH}
+		4427 = { is_core = BAH}
+		2030 = { is_core = BAH}
+		4429 = { is_core = BAH}
+		530 = { is_core = BAH}
+		2089 = { is_core = BAH}
+		541 = { owned_by = BAH}
+		4427 = { owned_by = BAH}
+		2030 = { owned_by = BAH}
+		4429 = { owned_by = BAH}
+		530 = { owned_by = BAH}
+		2089 = { owned_by = BAH}
+	}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
+vij_recovery = {
+	major = yes
+	potential = {
+		NOT = { has_country_flag = matrox_recovery }
+		NOT = {is_year = 1500}
+		tag = VIJ
+	}
+	allow = {
+		NOT = {is_year = 1500}
+		tag = VIJ
+		2033 = { is_core = VIJ}
+		4428 = { is_core = VIJ}
+		532 = { is_core = VIJ}
+		2035 = { is_core = VIJ}
+		1948 = { is_core = VIJ}
+		2033 = { owned_by = VIJ}
+		4428 = { owned_by = VIJ}
+		532 = { owned_by = VIJ}
+		2035 = { owned_by = VIJ}
+		1948 = { owned_by = VIJ}
+	}
+	effect = {
+		add_country_modifier = {
+		name = onurotuzbir
+		duration = 3650
+		}
+			add_treasury = 1000
+			add_manpower = 30.0
+			add_war_exhaustion = -10
+			set_country_flag = matrox_recovery
+	}
+}
 	delbuild = {
 		major = yes
 		potential = {
@@ -307,9 +472,9 @@ country_decisions = {
 		}
 		effect = {
 			add_splendor = -800
-			add_adm_power = 25
-			add_dip_power = 25
-			add_mil_power = 25
+			add_adm_power = 15
+			add_dip_power = 15
+			add_mil_power = 15
 		}
 	}
 	fix_agenda = {
@@ -324,6 +489,7 @@ country_decisions = {
 			set_country_flag = matrox_fix_agenda
 		}
 	}
-} 
+}
+ 
 
 

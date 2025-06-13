@@ -632,7 +632,31 @@ vassalaction = {
 		}
 	}
 }
-
+designate_march = {
+	condition = {
+		tooltip = bs_tooltip_enable_marches
+		potential = {
+		}
+		allow = {
+			OR = {
+				has_reform = centralize_reform
+				has_idea = marcher_lords
+			}	
+		}
+	}
+	condition = {
+		tooltip = bs_tooltip_many_marches
+		potential = {
+		}
+		allow = {
+			NOT = {
+				ROOT = {
+					march = 4
+				}
+			}
+		}
+	}	
+}
 abandon_union = {
 	condition = {
 		potential = {
