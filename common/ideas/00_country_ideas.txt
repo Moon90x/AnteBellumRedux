@@ -1413,15 +1413,16 @@ VRN_ideas = {
 
 VEN_ideas = {
 	start = {
-		land_morale = 0.1
-		shock_damage_received = -0.15
-		
+		trade_steering = 0.33
+		legitimacy = 1
+		devotion = 1
+		republican_tradition = 0.3
+		meritocracy = 1
+		horde_unity = 1
 	}
 	
 	bonus = {
-		naval_morale = 0.15
-		discipline = 0.05
-
+		galley_power = 0.25
 	}
 	
 	trigger = {
@@ -1432,32 +1433,29 @@ VEN_ideas = {
 	free = yes		#will be added at load.
 	
 	venetian_arsenal = {
-		reform_progress_growth = 0.15
-		global_unrest = -1
+		naval_forcelimit_modifier = 0.25
+		ship_durability = 0.05
 	}
 	printing_industry = {
-		trade_efficiency = 0.15
-
+		institution_spread_from_true_faith = 0.33
+		technology_cost = -0.05
 	}
 	stato_da_mar = {
-		global_foreign_trade_power = 0.15
-
+		trade_efficiency = 0.2
 	}
 	state_inquisition = {
-		global_institution_spread = 0.1
-		development_cost = -0.05
+		global_spy_defence = 0.3
+		yearly_corruption = -0.05
 	}
 	conscription = {
-		num_accepted_cultures = 2
-
+		global_sailors_modifier = 0.33
+		allowed_marine_fraction = 0.1
 	}
 	defend_the_law = {
-		naval_forcelimit_modifier = 0.25
-
+		global_unrest = -2
 	}
 	provveditori_ai_beni_inculti = {
-		core_creation = -0.15
-
+		development_cost = -0.1
 	}
 }
 

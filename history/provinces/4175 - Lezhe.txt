@@ -4,7 +4,7 @@ owner = ALB
 controller = ALB
 culture = albanian
 religion = orthodox
-capital = "Lezhï¿½"
+capital = "Lezhë"
 trade_goods = wool
 hre = no
 base_tax = 2
@@ -22,6 +22,8 @@ discovered_by = ottoman
 discovered_by = eastern
 discovered_by = western
 
+
+1399.1.1 = { add_core = VEN }
 1431.1.1 = { add_core = TUR }
 1478.6.16 = { owner = TUR controller = TUR }
 1520.1.1 = { religion = sunni } # Predominant religion under Turkish rule

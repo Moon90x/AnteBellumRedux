@@ -14140,7 +14140,7 @@ matrox_golden_era = {
     global_trade_goods_size_modifier = 0.1
 }
 player_overlord_modifier = {
-	defensiveness = 0.33
+	defensiveness = 0.5
 }
 PR_commandant_cooldown = {
 }

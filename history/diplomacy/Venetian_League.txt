@@ -9,7 +9,7 @@
 
 vassal = {
 	first = VEN
-	second = RAG
+	second = NAX
 	start_date = 1444.1.1
 	end_date = 1579.1.1
 }
