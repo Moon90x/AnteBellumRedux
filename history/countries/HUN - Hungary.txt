@@ -12,11 +12,11 @@ change_estate_land_share = {
 	estate = estate_church
 	share = -5
 }
-1437.1.1 = { leader = {	name = "J�nos Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
+1437.1.1 = { leader = {	name = "Janos Hunyadi"         	type = general	fire = 4	shock = 4	manuever = 4	siege = 1	death_date = 1445.1.1 } }
 
 1444.11.10 = {
 	monarch = {
-		name = "J�nos "
+		name = "Janos "
 		birth_date = 1420.7.7			
 		dynasty = "Hunyadi"
 		adm = 4
