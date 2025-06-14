@@ -248,6 +248,8 @@ country_event = {
 				mil = 1
 				adm = 4
 				dip = 1
+				min_age = 28
+				max_age = 36
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -256,6 +258,8 @@ country_event = {
 				mil = 1
 				adm = 4
 				dip = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		if = {
@@ -297,7 +301,9 @@ country_event = {
 			define_ruler = {
 				dip = 4
 				adm = 1
-				mil = 1					
+				mil = 1	
+				min_age = 28
+				max_age = 36				
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -305,7 +311,9 @@ country_event = {
 			define_ruler = {
 				dip = 4
 				adm = 1
-				mil = 1					
+				mil = 1	
+				min_age = 28
+				max_age = 36				
 			}
 		}
 		if = {
@@ -347,7 +355,9 @@ country_event = {
 			define_ruler = {
 				mil = 4
 				adm = 1
-				dip = 1					
+				dip = 1	
+				min_age = 28
+				max_age = 36				
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -355,7 +365,9 @@ country_event = {
 			define_ruler = {
 				mil = 4
 				adm = 1
-				dip = 1					
+				dip = 1	
+				min_age = 28
+				max_age = 36				
 			}
 		}
 		if = {
@@ -412,11 +424,11 @@ country_event = {
 				NOT = { has_reform = signoria_reform }
 			}
 			define_ruler = {
-				change_mil = -2
-				change_adm = -2
-				change_dip = -2
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 48
 				name = "lastname"
 				random_gender = yes # Allows random gender for republics
 			}
@@ -427,8 +439,11 @@ country_event = {
 				has_reform = signoria_reform
 			}
 			define_ruler = {
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 48
 				name = "lastname"
 				random_gender = yes # Allows random gender for republics
 			}
@@ -436,18 +451,21 @@ country_event = {
 		else_if = {
 			limit = { has_reform = signoria_reform }
 			define_ruler = {
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 48
 				name = "lastname"
 			}
 		}
 		else = {
 			define_ruler = {
-				change_mil = -2
-				change_adm = -2
-				change_dip = -2
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 48
 				name = "lastname"
 			}
 		}
@@ -531,7 +549,9 @@ country_event = {
 			define_ruler = {
 				mil = 1
 				adm = 4
-				dip = 1					
+				dip = 1
+				min_age = 28
+				max_age = 36				
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -539,7 +559,9 @@ country_event = {
 			define_ruler = {
 				mil = 1
 				adm = 4
-				dip = 1					
+				dip = 1	
+				min_age = 28
+				max_age = 36				
 			}
 		}
 		if = {
@@ -569,7 +591,9 @@ country_event = {
 			define_ruler = {
 				dip = 4
 				adm = 1
-				mil = 1					
+				mil = 1	
+				min_age = 28
+				max_age = 36				
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -577,7 +601,9 @@ country_event = {
 			define_ruler = {
 				dip = 4
 				adm = 1
-				mil = 1					
+				mil = 1	
+				min_age = 28
+				max_age = 36				
 			}
 		}
 		if = {
@@ -607,7 +633,9 @@ country_event = {
 			define_ruler = {
 				mil = 4
 				adm = 1
-				dip = 1					
+				dip = 1	
+				min_age = 28
+				max_age = 36				
 				random_gender = yes # Allows random gender for republics
 			}
 		}
@@ -615,7 +643,9 @@ country_event = {
 			define_ruler = {
 				mil = 4
 				adm = 1
-				dip = 1					
+				dip = 1		
+				min_age = 28
+				max_age = 36			
 			}
 		}
 		if = {
@@ -659,11 +689,11 @@ country_event = {
 				NOT = { has_reform = signoria_reform }
 			}
 			define_ruler = {
-				change_mil = -2
-				change_adm = -2
-				change_dip = -2
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 45
 				name = "lastname"
 				random_gender = yes # Allows random gender for republics
 			}
@@ -674,8 +704,9 @@ country_event = {
 				has_reform = signoria_reform
 			}
 			define_ruler = {
+
 				min_age = 30
-				max_age = 50
+				max_age = 45
 				name = "lastname"
 				random_gender = yes # Allows random gender for republics
 			}
@@ -686,18 +717,18 @@ country_event = {
 			}
 			define_ruler = {
 				min_age = 30
-				max_age = 50
+				max_age = 45
 				name = "lastname"
 				random_gender = yes # Allows random gender for republics
 			}
 		}
 		else = {
 			define_ruler = {
-				change_mil = -2
-				change_adm = -2
-				change_dip = -2
+				change_mil = -1
+				change_adm = -1
+				change_dip = -1
 				min_age = 30
-				max_age = 50
+				max_age = 45
 				name = "lastname"
 			}
 		}
@@ -744,7 +775,9 @@ country_event = {
 		ai_chance = { factor = 20 }
 		FROM = {
 			define_ruler = {
-				adm = 4
+				min_age = 28
+				max_age = 38
+                                adm = 4
 				mil = 2
 				dip = 2
 			}
@@ -756,6 +789,8 @@ country_event = {
 		ai_chance = { factor = 20 }
 		FROM = {
 			define_ruler = {
+				min_age = 28
+				max_age = 38
 				adm = 2
 				dip = 4
 				mil = 2
@@ -768,6 +803,8 @@ country_event = {
 		ai_chance = { factor = 20 }
 		FROM = {
 			define_ruler = {
+				min_age = 28
+				max_age = 38
 				adm = 2
 				dip = 2
 				mil = 4
@@ -872,10 +909,17 @@ country_event = {
 				change_adm = 1
 				change_dip = 1
 				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		else = {
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		if = {
@@ -895,6 +939,11 @@ country_event = {
 		trigger = { has_reform = feuillant_reform }
 		name = elections.720.g
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		add_faction_influence = {
 			faction = rr_jacobins
@@ -907,6 +956,11 @@ country_event = {
 		trigger = { has_reform = feuillant_reform }
 		name = elections.720.h
 		define_ruler = {
+                                change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		add_faction_influence = {
 			faction = rr_girondists
@@ -927,6 +981,11 @@ country_event = {
 				}
 			}
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "van Oranje"
 			}
 		}
@@ -935,6 +994,8 @@ country_event = {
 				change_adm = 1
 				change_dip = 1
 				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "van Oranje"
 			}
 		}
@@ -958,6 +1019,11 @@ country_event = {
 				tag = FRA
 			}
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "Bonaparte"
 			}
 		}
@@ -967,10 +1033,20 @@ country_event = {
 				NOT = { tag = FRA }
 			}
 			define_ruler = {
+                                change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		else = {
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = historic_dynasty # Will pick one weighted by how many rulers a family has had
 			}
 		}
@@ -990,6 +1066,11 @@ country_event = {
 		name = elections.720.e
 		trigger = { has_reform = monastic_elections_reform }
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		change_statists_vs_orangists = -0.33
 	}
@@ -998,6 +1079,11 @@ country_event = {
 		trigger = { has_reform = monastic_elections_reform }
 		name = elections.720.f
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		change_statists_vs_orangists = 0.33
 	}
@@ -1057,10 +1143,17 @@ country_event = {
 				change_adm = 1
 				change_dip = 1
 				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		else = {
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		if = {
@@ -1080,6 +1173,11 @@ country_event = {
 		trigger = { has_reform = feuillant_reform }
 		name = elections.720.g
 		define_ruler = {
+                                change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		add_faction_influence = {
 			faction = rr_jacobins
@@ -1092,6 +1190,11 @@ country_event = {
 		trigger = { has_reform = feuillant_reform }
 		name = elections.720.h
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		add_faction_influence = {
 			faction = rr_girondists
@@ -1112,6 +1215,11 @@ country_event = {
 				}
 			}
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "van Oranje"
 			}
 		}
@@ -1120,6 +1228,8 @@ country_event = {
 				change_adm = 1
 				change_dip = 1
 				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "van Oranje"
 			}
 		}
@@ -1143,6 +1253,11 @@ country_event = {
 				tag = FRA
 			}
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = "Bonaparte"
 			}
 		}
@@ -1152,10 +1267,20 @@ country_event = {
 				NOT = { tag = FRA }
 			}
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 			}
 		}
 		else = {
 			define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 				dynasty = historic_dynasty # Will pick one weighted by how many rulers a family has had
 			}
 		}
@@ -1175,6 +1300,11 @@ country_event = {
 		name = elections.720.e
 		trigger = { has_reform = monastic_elections_reform }
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		change_statists_vs_orangists = -0.33
 	}
@@ -1183,6 +1313,11 @@ country_event = {
 		trigger = { has_reform = monastic_elections_reform }
 		name = elections.720.f
 		define_ruler = {
+				change_adm = 1
+				change_dip = 1
+				change_mil = 1
+				min_age = 28
+				max_age = 36
 		}
 		change_statists_vs_orangists = 0.33
 	}
@@ -1213,7 +1348,7 @@ country_event = {
 					exiled_as = lottery_candidate_a_@ROOT
 					random_gender = yes
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = 2
 					change_dip = -1
 					change_mil = -1
@@ -1229,7 +1364,7 @@ country_event = {
 					exiled_as = lottery_candidate_a_@ROOT
 					random_gender = yes
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = 3
 					change_dip = -1
 					change_mil = -1
@@ -1244,7 +1379,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_a_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = 3
 					change_dip = -1
 					change_mil = -1
@@ -1255,7 +1390,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_a_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = 2
 					change_dip = -1
 					change_mil = -1
@@ -1271,7 +1406,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_b_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = 2
 					change_mil = -1
@@ -1288,7 +1423,7 @@ country_event = {
 					exiled_as = lottery_candidate_b_@ROOT
 					random_gender = yes
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = 3
 					change_mil = -1
@@ -1303,7 +1438,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_b_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = 3
 					change_mil = -1
@@ -1314,7 +1449,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_b_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = 2
 					change_mil = -1
@@ -1330,7 +1465,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_c_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = -1
 					change_mil = 2
@@ -1362,7 +1497,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_c_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = -1
 					change_mil = 3
@@ -1373,7 +1508,7 @@ country_event = {
 				define_exiled_ruler = {
 					exiled_as = lottery_candidate_c_@ROOT
 					min_age = 50
-					max_age = 75
+					max_age = 60
 					change_adm = -1
 					change_dip = -1
 					change_mil = 2

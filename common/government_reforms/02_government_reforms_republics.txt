@@ -3,7 +3,7 @@ republic_mechanic = {
 	republican_name = yes
 	royal_marriage = no
 	republic = yes
-	duration = 4
+	duration = 6
 	has_term_election = yes
 	custom_attributes = {
 		enables_plutocratic_idea_group = yes
@@ -24,7 +24,7 @@ republic_mechanic = {
 oligarchy_reform = {
 	icon = "people_walking"
 	allow_normal_conversion = yes
-	duration = 4
+	duration = 6
 	legacy_equivalent = oligarchic_republic
 	valid_for_nation_designer = yes
 	nation_designer_cost = 0
@@ -162,7 +162,7 @@ parliamentary_republic_reform = {
 			english_parliament = yes
 		}
 	}
-	duration = 5
+	duration = 6
 	custom_attributes = {
 		enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
@@ -285,7 +285,7 @@ merchants_reform = {
 		}
 	}
 	boost_income = yes
-	duration = 4
+	duration = 6
 	factions = {
 		mr_aristocrats
 		mr_traders
@@ -489,7 +489,7 @@ pirate_republic_reform = {
 		pr_captains
 	}
 	
-	duration = 4
+	duration = 6
 	
 	custom_attributes = {
 		locked_government_type = yes
@@ -519,7 +519,7 @@ noble_elite_reform = {
 		maratha_exclusive_influence_modifier = 0.05
 		rajput_exclusive_influence_modifier = 0.05
 	}
-	duration = 8
+	duration = 6
 
 	custom_attributes = {
 		enables_plutocratic_idea_group = no
@@ -589,7 +589,7 @@ revolutionary_republic_reform = {
 	}
 	legacy_equivalent = revolutionary_republic
 	valid_for_new_country = no
-	duration = 4
+	duration = 6
 	valid_for_nation_designer = no
 	republican_name = yes
 	royal_marriage = no
@@ -691,7 +691,7 @@ junior_revolutionary_republic_reform = {
 	}
 	legacy_equivalent = revolutionary_republic
 	valid_for_new_country = no
-	duration = 4
+	duration = 6
 	valid_for_nation_designer = no
 	republican_name = yes
 	royal_marriage = no
@@ -830,7 +830,7 @@ peasants_republic = {
 		disables_estate_nobles = yes
 		is_peasants_republic = yes
 	}
-	duration = 4
+	duration = 6
 }
 
 ikko_ikki_republic_reform = {
@@ -909,7 +909,7 @@ kongsi_federation = {
 		allow_draft_transport_ships = yes
 		disables_estate_nobles = yes
 	}
-	duration = 4
+	duration = 6
 }
 
 free_city = {
@@ -941,7 +941,7 @@ free_city = {
 		enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
 	}
-	duration = 4
+	duration = 6
 }
 
 trading_city = {
@@ -996,7 +996,7 @@ trading_city = {
 		can_form_trade_league = yes
 		trade_city_reform = merchants_reform # For trade cities this is their fallback government if they get more than 1 provinces
 	}
-	duration = 4
+	duration = 6
 }
 
 ambrosian_republic = {
@@ -1308,7 +1308,7 @@ american_republic = {
 			blocked_call_diet = yes
 		}
 	}
-	duration = 4
+	duration = 6
 }
 
 federal_republic = {
@@ -1359,7 +1359,7 @@ federal_republic = {
 			blocked_call_diet = yes
 		}
 	}
-	duration = 4
+	duration = 6
 }
 
 colonial_government = {
@@ -1423,7 +1423,7 @@ colonial_government = {
 			}
 		}
 	}
-	duration = 4
+	duration = 6
 }
 
 crown_colony_government = {
@@ -1480,7 +1480,7 @@ crown_colony_government = {
 		enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
 	}
-	duration = 4
+	duration = 6
 }
 
 private_enterprise_colony_government = {
@@ -1538,7 +1538,7 @@ private_enterprise_colony_government = {
 			}
 		}
 	}
-	duration = 4
+	duration = 6
 }
 
 self_governing_colony_government = {
@@ -1598,7 +1598,7 @@ self_governing_colony_government = {
 			}
 		}
 	}
-	duration = 4
+	duration = 6
 }
 
 trade_company_government = {
@@ -1622,7 +1622,7 @@ trade_company_government = {
 	nation_designer_cost = 60
 	valid_for_nation_designer = yes
 	boost_income = yes
-	duration = 4
+	duration = 6
 	factions = {
 		mr_aristocrats
 		mr_traders
@@ -1694,7 +1694,7 @@ english_parliamentary_republic_government = {
 		republican_tradition = 0.25
 		max_absolutism = 5
 	}
-	duration = 5
+	duration = 6
 	custom_attributes = {
 		enables_plutocratic_idea_group = yes
 		enables_aristocratic_idea_group = no
@@ -1765,7 +1765,7 @@ roman_republic_government = {
 			enables_pronoias = yes 
 		}
 	}
-	duration = 5
+	duration = 6
 }
 
 civic_republicanism_government = {
@@ -1857,7 +1857,7 @@ calvinist_republic_government = {
 		enables_plutocratic_idea_group = no
 		enables_divine_idea_group = yes
 	}
-	duration = 4
+	duration = 6
 }
 
 dutch_republic = {
@@ -1936,7 +1936,7 @@ dutch_republic = {
 		}
 		has_parliament = yes
 	}
-	duration = 4
+	duration = 6
 }
 
 
@@ -2006,7 +2006,7 @@ cossacks_reform = {
 		disables_estate_nobles = yes
 	}
 
-	duration = 4
+	duration = 6
 }
 
 city_alliance_reform = {
@@ -2585,7 +2585,7 @@ consolidate_power_in_cities_reform = {
 	}
 	has_term_election = yes
 	is_eligible_for_hre_emperor = no
-	duration = 4
+	duration = 6
 	ai = {
 		factor = 10
 		modifier = {
@@ -3014,7 +3014,7 @@ feuillant_reform = {
 
 	conditional = {
 		allow = { has_dlc = "Res Publica" }
-		duration = 4
+		duration = 6
 		has_term_election = yes
 		is_eligible_for_hre_emperor = no
 		states_general_mechanic = {
