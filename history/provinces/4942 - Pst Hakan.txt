@@ -10,7 +10,7 @@ base_production = 1
 trade_goods = gold
 base_manpower = 1
 capital = "Sekeristan"
-fort_16th = yes
+fort_17th = yes
 is_city = yes
 
 1527.6.1 = { religion = protestant}
