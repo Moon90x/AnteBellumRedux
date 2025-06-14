@@ -1563,7 +1563,7 @@ woc_hun_third_branch = {
 		effect = {
 			define_advisor = {
 				type = inquisitor
-				name = "Dénes Szécsi"
+				name = "Dones Szocsi"
 				skill = 2
 				culture = hungarian
 				religion = ROOT
@@ -2587,7 +2587,7 @@ woc_hun_fourth_branch = {
 			set_country_flag = hun_national_idea_bonus
 			define_advisor = {
 				type = diplomat
-				name = "János Vitéz"
+				name = "Janos Vitoz"
 				skill = 3
 				culture = hungarian
 				religion = ROOT
@@ -3127,7 +3127,7 @@ woc_hun_fifth_branch = {
 			carpathia_region = {
 				add_province_modifier = {
 					name = hun_fertile_lands
-					duration = 5475
+					duration = 3652
 				}
 			}
 		}
