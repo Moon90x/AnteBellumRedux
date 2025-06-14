@@ -1,4 +1,5 @@
 #Suleiman Range
+religion = sunni
 
 
 

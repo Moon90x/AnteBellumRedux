@@ -239,7 +239,14 @@ emp_naples_3 = {
 				}
 				add_legitimacy = 50
 			}
-			tuscany_area = {
+			lazio_area = {
+				limit = {
+					NOT = { is_core = ROOT }
+					NOT = { is_permanent_claim = ROOT }
+				}
+				add_permanent_claim = ROOT
+			}
+			central_italy_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -286,14 +293,7 @@ emp_naples_3 = {
 				}
 				add_permanent_claim = ROOT
 			}
-			lazio_area = {
-				limit = {
-					NOT = { is_core = ROOT }
-					NOT = { is_permanent_claim = ROOT }
-				}
-				add_permanent_claim = ROOT
-			}
-			central_italy_area = {
+			tuscany_area = {
 				limit = {
 					NOT = { is_core = ROOT }
 					NOT = { is_permanent_claim = ROOT }
@@ -470,8 +470,8 @@ emp_naples_4 = {
 		position = 3
 		trigger = {	
 			is_subject = no
-			navy_size_percentage = 0.9
-			num_of_galley = 20
+			navy_size_percentage = 0.7
+			num_of_galley = 5
 		}
 		effect = {
 			aleppo_area = {
