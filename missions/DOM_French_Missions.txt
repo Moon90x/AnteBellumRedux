@@ -2155,6 +2155,10 @@ french_missions_3 = {
 			}
 		}
 		effect = { 
+			add_power_projection = {
+				type = fra_crown_of_france
+				amount = 20
+			}
 			custom_tooltip = fra_if_completed_via_control_tt
 			custom_tooltip = fra_alternatively_lose_10_devastation_and_gain_tt
 			tooltip = { 
