@@ -523,8 +523,6 @@ grant_freecity = {
 }
 
 removed_our_freecity = {
-	opinion = -100
-	yearly_decay = 4
 }
 
 honored_alliance = {
@@ -4154,8 +4152,6 @@ opinion_regensburg_defaulted = {
 }
 
 opinion_stole_free_city = {
-	opinion = -100
-	yearly_decay = 2
 }
 
 opinion_regensburg_demand_too_much = {
