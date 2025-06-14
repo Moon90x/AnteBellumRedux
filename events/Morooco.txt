@@ -32,5 +32,29 @@ mean_time_to_happen = {
 
 
 }
+country_event = {
+    id = 1083
+    title = "EVTNAME1083"
+    desc = "EVTDESC1083"
+    picture = POPE_PREACHING_eventPicture
+
+    trigger = {
+
+        is_in_war = {
+            participants = PAP
+            attacker_leader = ROOT
+        }
+    }
+
+    mean_time_to_happen = {
+        months = 1
+    }
+
+    option = {
+        name = "EVTOPTA1083"        # Hire someone to investigate the matter
+        white_peace = PAP
+    }
+
+}
 
 

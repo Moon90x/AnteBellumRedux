@@ -1,6 +1,7 @@
 matrox_ai = {
     potential = {
 		ai = yes
+		not = {tag = PAP}
 	}
     
 			
@@ -9,4 +10,37 @@ matrox_ai = {
 	}
 	defensiveness = -0.33
 	diplomatic_upkeep = -2
+}
+matrox_ai = {
+    potential = {
+		ai = yes
+		tag = PAP
+	}
+    
+			
+	trigger = {
+		ai = yes
+	}
+	defensiveness = 2
+	diplomatic_upkeep = 20
+	global_garrison_growth = 1
+}
+papal_subjugation = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 4942	# Roma
+		religion = catholic
+		NOT = { tag = PAP }
+	}
+
+	trigger = {	
+		OR = {
+		overlord_of = PAP
+		is_in_trade_league_with = PAP
+		4942 = {owned_by  = ROOT}
+		}
+	}
+	development_cost = 0.5
+
+	#icon = 9
 }

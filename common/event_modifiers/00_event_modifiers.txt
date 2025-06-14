@@ -14142,6 +14142,10 @@ matrox_golden_era = {
 player_overlord_modifier = {
 	defensiveness = 0.33
 }
+onurotuzbir = {				
+	interest = -1
+	inflation_reduction = 0.5 
+}
 PR_commandant_cooldown = {
 }
 
