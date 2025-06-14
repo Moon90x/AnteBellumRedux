@@ -58,35 +58,6 @@ war_goal = {
     rem_defender = MAM
 }
 
-name = "Solis4"
-war_goal = {
-    type = superiority_punitive
-    casus_belli = cb_super_badboy
-}
-
-1444.11.11 = {
-    add_attacker = AKK
-    add_defender = MAM
-}
-1444.11.11 = {
-    rem_attacker = AKK
-    rem_defender = MAM
-}
-
-name = "Solis5"
-war_goal = {
-    type = superiority_punitive
-    casus_belli = cb_super_badboy
-}
-
-1444.11.11 = {
-    add_attacker = QAR
-    add_defender = MAM
-}
-1444.11.11 = {
-    rem_attacker = QAR
-    rem_defender = MAM
-}
 
 name = "Solis5"
 war_goal = {
@@ -319,26 +290,4 @@ war_goal = {
 1444.11.11 = {
     rem_attacker = SRH
     rem_defender = MER
-}
-
-name = "AyAdma12"
-war_goal = {
-    type = superiority_punitive
-    casus_belli = cb_super_badboy
-}
-1444.11.11 = {
-    add_attacker = MAM
-    add_defender = FZA
-    add_defender = MER
-    add_defender = NAJ
-    add_defender = SHM
-    add_defender = DAW
-}
-1444.11.11 = {
-    rem_attacker = MAM
-    rem_defender = FZA
-    rem_defender = MER
-    rem_defender = NAJ
-    rem_defender = SHM
-    rem_defender = DAW
 }

@@ -7,7 +7,7 @@ We_stand_alone = {
 	}
 	trigger  = {
 		OR = {
-				great_power_rank = 4
+				great_power_rank = 8
 				 is_great_power = no
 				}
 				any_country = {
